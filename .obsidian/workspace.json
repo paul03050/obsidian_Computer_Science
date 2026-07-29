@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "759ebd5e1a59eaab",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f88acfaed99792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d946513d35c7ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-programming/git/常用指令.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "常用指令"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd6341a75cae667e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78b5f1ca12cd239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914309f3ab2ac861",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "86fbce901331a102",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "d127ab1eaa6a7e47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4130fb8e05580919",
+    "type": "split",
+    "children": [
+      {
+        "id": "5def7c69b23c5206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f428c7b4f849014",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "3d70bc3a7908e7ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "4f62a4c0517d8378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "3254569887585650",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "9e24354a2cf4b573",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          },
+          {
+            "id": "3731aab32f3a408b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2d946513d35c7ec5",
+  "lastOpenFiles": [
+    "00-programming/git/git push PAT.md",
+    "00-programming/network/網路埠轉發（Port Forwarding）.md",
+    "00-programming/network/RESTful APIs.md",
+    "00-programming/docker/Core Concepts of Docker.md",
+    "00-programming/資料結構/記憶體指標.md",
+    "00-programming/資料結構/資料結構_演算法.md",
+    "00-programming/資料結構/Callback.md",
+    "00-programming/資料結構/物件解構賦值.md",
+    "windows/services.msc.md",
+    "windows/PowerShell 的執行原則（Execution Policy）.md",
+    "windows/cmd.md",
+    "windows",
+    "linux/常用指令/file_management.md",
+    "linux/常用指令",
+    "linux/Introduction to Linux – Full Course for Beginners.md",
+    "linux/docker.md",
+    "linux",
+    "browser/chromium.md",
+    "browser",
+    "network/網路埠轉發（Port Forwarding）.md",
+    "network/Web API.md",
+    "network/RESTful APIs.md",
+    "network",
+    "html/重點.md",
+    "html",
+    "git/常用指令.md",
+    "git/問題排除.md",
+    "git/取得 PDF 連結.md",
+    "git/git push PAT.md",
+    "git",
+    "framework/vite/init.md",
+    "framework/vite",
+    "framework/react/教學影片/章節二.md",
+    "framework/react/教學影片/章節三.md",
+    "framework/react/教學影片",
+    "framework/react/Syntax"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "recentFiles": [
+    {
+      "basename": "常用指令",
+      "path": "00-programming/git/常用指令.md"
+    },
+    {
+      "basename": "git push PAT",
+      "path": "00-programming/git/git push PAT.md"
+    },
+    {
+      "basename": "網路埠轉發（Port Forwarding）",
+      "path": "00-programming/network/網路埠轉發（Port Forwarding）.md"
+    },
+    {
+      "basename": "RESTful APIs",
+      "path": "00-programming/network/RESTful APIs.md"
+    },
+    {
+      "basename": "Core Concepts of Docker",
+      "path": "00-programming/docker/Core Concepts of Docker.md"
+    },
+    {
+      "basename": "記憶體指標",
+      "path": "00-programming/資料結構/記憶體指標.md"
+    },
+    {
+      "basename": "資料結構_演算法",
+      "path": "00-programming/資料結構/資料結構_演算法.md"
+    },
+    {
+      "basename": "Callback",
+      "path": "00-programming/資料結構/Callback.md"
+    },
+    {
+      "basename": "物件解構賦值",
+      "path": "00-programming/資料結構/物件解構賦值.md"
+    },
+    {
+      "basename": "關係人交易（Related Party Transactions）",
+      "path": "40-Accounting/Common_JD/關係人交易（Related Party Transactions）.md"
+    },
+    {
+      "basename": "香港商富凱環球有限公司台灣分公司",
+      "path": "50-Interview/Company_Jd/香港商富凱環球有限公司台灣分公司.md"
+    },
+    {
+      "basename": "台灣新鈳電子股份有限公司",
+      "path": "50-Interview/Company_Jd/台灣新鈳電子股份有限公司.md"
+    },
+    {
+      "basename": "Study Notes",
+      "path": "70-prompt/Study Notes.md"
+    },
+    {
+      "basename": "2026-07-29",
+      "path": "999-Diary/2026-07-29.md"
+    },
+    {
+      "basename": "english practice",
+      "path": "70-prompt/english practice.md"
+    },
+    {
+      "basename": "chromium",
+      "path": "os/browser/chromium.md"
+    },
+    {
+      "basename": "React.ReactNode",
+      "path": "00-programming/framework/react/name/React.ReactNode.md"
+    },
+    {
+      "basename": "{children}",
+      "path": "00-programming/framework/react/name/{children}.md"
+    },
+    {
+      "basename": "章節三",
+      "path": "00-programming/framework/react/教學影片/章節三.md"
+    },
+    {
+      "basename": "章節二",
+      "path": "00-programming/framework/react/教學影片/章節二.md"
+    },
+    {
+      "basename": "章節一",
+      "path": "00-programming/framework/react/教學影片/章節一.md"
+    },
+    {
+      "basename": "phd",
+      "path": "70-prompt/phd.md"
+    },
+    {
+      "basename": "An Untraceable Complex System",
+      "path": "30-finance/Investment Philosophy/An Untraceable Complex System.md"
+    },
+    {
+      "basename": "Time Variable Profile",
+      "path": "30-finance/Investment Philosophy/Time Variable Profile.md"
+    },
+    {
+      "basename": "交易新進來的資金（Trade the new trade, not the old trade）",
+      "path": "30-finance/Investment Philosophy/交易新進來的資金（Trade the new trade, not the old trade）.md"
+    },
+    {
+      "basename": "美股盤口結構與散戶獵殺邏輯The Structure of U.S. Stock Market Order Books and the Logic Behind the Hunt for Retail Investors",
+      "path": "30-finance/Investment Philosophy/美股盤口結構與散戶獵殺邏輯The Structure of U.S. Stock Market Order Books and the Logic Behind the Hunt for Retail Investors.md"
+    },
+    {
+      "basename": "手機裡聽到自己的回音",
+      "path": "Temp/手機裡聽到自己的回音.md"
+    },
+    {
+      "basename": "認知心理學核心概念(Core Concepts of Cognitive Psychology)",
+      "path": "60-Psychology/認知心理學核心概念(Core Concepts of Cognitive Psychology).md"
+    },
+    {
+      "basename": "Obsidian MCP+ Hybrid Search A Reference Guide for 2026",
+      "path": "obsidian/Obsidian MCP+ Hybrid Search A Reference Guide for 2026.md"
+    },
+    {
+      "basename": "LLM Wiki",
+      "path": "obsidian/LLM Wiki.md"
+    },
+    {
+      "basename": "learning",
+      "path": "obsidian/learning.md"
+    },
+    {
+      "basename": "base",
+      "path": "obsidian/base.md"
+    },
+    {
+      "basename": "The Real Estate Logic Behind the AI Valuation Bubble",
+      "path": "30-finance/papaer/The Real Estate Logic Behind the AI Valuation Bubble.md"
+    },
+    {
+      "basename": "Swap",
+      "path": "30-finance/Trade/Swap.md"
+    },
+    {
+      "basename": "Self-Study Career Transition Roadmap for AI Engineers",
+      "path": "20-ai_agent/paper/Self-Study Career Transition Roadmap for AI Engineers.md"
+    },
+    {
+      "basename": "Self-introduction",
+      "path": "50-Interview/Interview Preparation/Self-introduction.md"
+    },
+    {
+      "basename": "lesson_hub",
+      "path": "Entrepreneurship/prototype/lesson_hub.md"
+    },
+    {
+      "basename": "Interest Rate Volatility, the SOFR Curve, and Global Macro Allocation",
+      "path": "30-finance/papaer/Interest Rate Volatility, the SOFR Curve, and Global Macro Allocation.md"
+    },
+    {
+      "basename": "function_callback",
+      "path": "00-programming/typescript/syntax/function_callback.md"
+    },
+    {
+      "basename": "From “Ultra-Fast Money” to “Programmable Foundation”",
+      "path": "Kaspa/Tech/From “Ultra-Fast Money” to “Programmable Foundation”.md"
+    },
+    {
+      "basename": "美聯儲的「政策偽裝」與降息路徑Hawkish statements are merely strategic camouflage",
+      "path": "30-finance/papaer/美聯儲的「政策偽裝」與降息路徑Hawkish statements are merely strategic camouflage.md"
+    },
+    {
+      "basename": "HR",
+      "path": "50-Interview/HR.md"
+    },
+    {
+      "basename": "Integrated Real Estate Tax",
+      "path": "40-Accounting/Audit Standards查核準則/Integrated Real Estate Tax.md"
+    },
+    {
+      "basename": "Interest Rate on Reserve Balances (IORB)",
+      "path": "30-finance/nouns/Interest Rate on Reserve Balances (IORB).md"
+    },
+    {
+      "basename": "Interview Questions",
+      "path": "50-Interview/Interview Preparation/Interview Questions.md"
+    },
+    {
+      "basename": "The Underlying Logic Behind the Fed's Decision Not to Raise Interest Rates This Year",
+      "path": "30-finance/papaer/The Underlying Logic Behind the Fed's Decision Not to Raise Interest Rates This Year.md"
+    },
+    {
+      "basename": "SKILLS_CREATOR",
+      "path": "20-ai_agent/opencode/SKILLS_CREATOR.md"
+    },
+    {
+      "basename": "Market Risks in the Private Credit Market A Return to Financial Alchemy",
+      "path": "30-finance/papaer/Market Risks in the Private Credit Market A Return to Financial Alchemy.md"
+    },
+    {
+      "basename": "Trichet Error",
+      "path": "30-finance/nouns/Trichet Error.md"
+    },
+    {
+      "basename": "the yen, the Nikkei Index, the Chinese market, and U.S. dollar liquidity",
+      "path": "30-finance/the yen, the Nikkei Index, the Chinese market, and U.S. dollar liquidity.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
