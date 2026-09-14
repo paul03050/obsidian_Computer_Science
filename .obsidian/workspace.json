@@ -217,8 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d946513d35c7ec5",
+  "active": "914309f3ab2ac861",
   "lastOpenFiles": [
+    "kaspa",
     "ai_agent/Nouns/Function Calling.md",
     "typescript/syntax/interface.md",
     "typescript/syntax/function_callback.md",
@@ -244,7 +245,6 @@
     "typescript/教學影片.md",
     "typescript/syntax/泛型(Generics).md",
     "framework/Comparison.md",
-    "framework/vite/init.md",
     "windows",
     "linux/常用指令",
     "linux",
