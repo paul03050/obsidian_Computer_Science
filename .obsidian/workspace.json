@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "html/重點.md",
+                "file": "kaspa/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "重點"
+              "title": "未命名"
             }
           }
         ]
@@ -217,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "914309f3ab2ac861",
+  "active": "2d946513d35c7ec5",
   "lastOpenFiles": [
+    "html/重點.md",
+    "kaspa/未命名.md",
     "kaspa",
     "ai_agent/Nouns/Function Calling.md",
     "typescript/syntax/interface.md",
@@ -244,7 +246,6 @@
     "typescript/init/install.md",
     "typescript/教學影片.md",
     "typescript/syntax/泛型(Generics).md",
-    "framework/Comparison.md",
     "windows",
     "linux/常用指令",
     "linux",
@@ -253,7 +254,6 @@
     "html",
     "git",
     "framework/vite",
-    "framework/react/教學影片",
-    "framework/react/Syntax"
+    "framework/react/教學影片"
   ]
 }
