@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "kaspa/未命名.md"
+    },
+    {
       "basename": "一個已存在的 UTXO 本身不能被原地修改。",
       "path": "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "phd",
       "path": "70-prompt/phd.md"
-    },
-    {
-      "basename": "An Untraceable Complex System",
-      "path": "30-finance/Investment Philosophy/An Untraceable Complex System.md"
     }
   ],
   "omittedPaths": [
