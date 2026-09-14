@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09f88acfaed99792",
+        "id": "2f07747d0ece4f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d946513d35c7ec5",
+            "id": "edf7b46820daad5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,10 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d946513d35c7ec5",
+  "active": "914309f3ab2ac861",
   "lastOpenFiles": [
-    "html/重點.md",
+    "資料結構/物件解構賦值.md",
+    "Nouns/Framework.md",
     "kaspa/未命名.md",
+    "html/重點.md",
     "kaspa",
     "ai_agent/Nouns/Function Calling.md",
     "typescript/syntax/interface.md",
@@ -244,8 +246,6 @@
     "typescript/syntax/object.md",
     "typescript/init/tsx.md",
     "typescript/init/install.md",
-    "typescript/教學影片.md",
-    "typescript/syntax/泛型(Generics).md",
     "windows",
     "linux/常用指令",
     "linux",

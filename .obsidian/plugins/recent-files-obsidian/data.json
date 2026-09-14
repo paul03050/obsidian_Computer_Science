@@ -5,6 +5,14 @@
       "path": "kaspa/未命名.md"
     },
     {
+      "basename": "物件解構賦值",
+      "path": "資料結構/物件解構賦值.md"
+    },
+    {
+      "basename": "Framework",
+      "path": "Nouns/Framework.md"
+    },
+    {
       "basename": "重點",
       "path": "html/重點.md"
     },
@@ -113,10 +121,6 @@
       "path": "framework/vite/init.md"
     },
     {
-      "basename": "物件解構賦值",
-      "path": "資料結構/物件解構賦值.md"
-    },
-    {
       "basename": "常用指令",
       "path": "git/常用指令.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "An Untraceable Complex System",
       "path": "30-finance/Investment Philosophy/An Untraceable Complex System.md"
-    },
-    {
-      "basename": "Time Variable Profile",
-      "path": "30-finance/Investment Philosophy/Time Variable Profile.md"
     }
   ],
   "omittedPaths": [
