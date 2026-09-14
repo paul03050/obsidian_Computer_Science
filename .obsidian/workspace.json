@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaspa/未命名.md",
+                "file": "kaspa/Runtime =「程式正在跑的時候」.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Runtime =「程式正在跑的時候」"
             }
           }
         ]
@@ -220,7 +220,7 @@
   "active": "edf7b46820daad5e",
   "lastOpenFiles": [
     "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
-    "kaspa/未命名.md",
+    "kaspa/Runtime =「程式正在跑的時候」.md",
     "資料結構/物件解構賦值.md",
     "Nouns/Framework.md",
     "html/重點.md",
