@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-programming/git/常用指令.md",
+                "file": "html/重點.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "常用指令"
+              "title": "重點"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -88,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "framework/Comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "Comparison 的反向連結"
             }
           },
           {
@@ -123,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "typescript/syntax/function_callback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "function_callback 的對外連結"
             }
           },
           {
@@ -165,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "typescript/syntax/function_callback.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "function_callback 的大綱"
             }
           },
           {
@@ -182,8 +186,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "9dbd9163055fa55a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -204,40 +219,40 @@
   },
   "active": "2d946513d35c7ec5",
   "lastOpenFiles": [
-    "00-programming/git/git push PAT.md",
-    "00-programming/network/網路埠轉發（Port Forwarding）.md",
-    "00-programming/network/RESTful APIs.md",
-    "00-programming/docker/Core Concepts of Docker.md",
-    "00-programming/資料結構/記憶體指標.md",
-    "00-programming/資料結構/資料結構_演算法.md",
-    "00-programming/資料結構/Callback.md",
-    "00-programming/資料結構/物件解構賦值.md",
-    "windows/services.msc.md",
-    "windows/PowerShell 的執行原則（Execution Policy）.md",
-    "windows/cmd.md",
-    "windows",
-    "linux/常用指令/file_management.md",
-    "linux/常用指令",
-    "linux/Introduction to Linux – Full Course for Beginners.md",
-    "linux/docker.md",
-    "linux",
-    "browser/chromium.md",
-    "browser",
+    "ai_agent/Nouns/Function Calling.md",
+    "typescript/syntax/interface.md",
+    "typescript/syntax/function_callback.md",
+    "typescript/syntax/as unknown.md",
+    "typescript/syntax/&&.md",
+    "os/windows/cmd.md",
+    "os/windows/services.msc.md",
+    "os/windows/PowerShell 的執行原則（Execution Policy）.md",
+    "typescript/syntax/extends.md",
+    "typescript/syntax/Destructuring.md",
+    "typescript/syntax/class.md",
+    "SQL/基本語法.md",
     "network/網路埠轉發（Port Forwarding）.md",
-    "network/Web API.md",
-    "network/RESTful APIs.md",
-    "network",
-    "html/重點.md",
-    "html",
-    "git/常用指令.md",
-    "git/問題排除.md",
-    "git/取得 PDF 連結.md",
-    "git/git push PAT.md",
-    "git",
+    "ai_agent/insight.md",
+    "ai_agent/opencode/commands/review.md.md",
+    "ai_agent/opencode/commands/learn.md.md",
+    "ai_agent/Nouns/MCP.md",
+    "docker/Core Concepts of Docker.md",
+    "os/行程管理（Process Management）.md",
+    "typescript/syntax/object.md",
+    "typescript/init/tsx.md",
+    "typescript/init/install.md",
+    "typescript/教學影片.md",
+    "typescript/syntax/泛型(Generics).md",
+    "framework/Comparison.md",
     "framework/vite/init.md",
+    "windows",
+    "linux/常用指令",
+    "linux",
+    "browser",
+    "network",
+    "html",
+    "git",
     "framework/vite",
-    "framework/react/教學影片/章節二.md",
-    "framework/react/教學影片/章節三.md",
     "framework/react/教學影片",
     "framework/react/Syntax"
   ]
