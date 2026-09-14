@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaspa/未命名.md",
+                "file": "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "一個已存在的 UTXO 本身不能被原地修改。"
             }
           }
         ]
@@ -217,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "914309f3ab2ac861",
+  "active": "edf7b46820daad5e",
   "lastOpenFiles": [
     "資料結構/物件解構賦值.md",
     "Nouns/Framework.md",
-    "kaspa/未命名.md",
+    "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
     "html/重點.md",
     "kaspa",
     "ai_agent/Nouns/Function Calling.md",
