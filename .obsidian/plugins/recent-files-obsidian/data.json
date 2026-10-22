@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "新通用頂級域名計畫（Next Round gTLD）",
+      "path": "network/新通用頂級域名計畫（Next Round gTLD）.md"
+    },
+    {
       "basename": "Runtime =「程式正在跑的時候」",
       "path": "kaspa/Runtime =「程式正在跑的時候」.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "章節一",
       "path": "framework/react/教學影片/章節一.md"
-    },
-    {
-      "basename": "phd",
-      "path": "70-prompt/phd.md"
     }
   ],
   "omittedPaths": [
