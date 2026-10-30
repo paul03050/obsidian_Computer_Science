@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "新通用頂級域名計畫（Next Round gTLD）"
             }
+          },
+          {
+            "id": "07986ad90e3217cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -218,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edf7b46820daad5e",
+  "active": "07986ad90e3217cb",
   "lastOpenFiles": [
-    "kaspa/Runtime =「程式正在跑的時候」.md",
     "network/新通用頂級域名計畫（Next Round gTLD）.md",
+    "kaspa/Runtime =「程式正在跑的時候」.md",
     "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
     "資料結構/物件解構賦值.md",
     "Nouns/Framework.md",
