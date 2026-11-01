@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "基本知識",
+      "path": "Chinese on the Internet/基本知識.md"
+    },
+    {
       "basename": "新通用頂級域名計畫（Next Round gTLD）",
       "path": "network/新通用頂級域名計畫（Next Round gTLD）.md"
     },
@@ -14,7 +18,7 @@
     },
     {
       "basename": "物件解構賦值",
-      "path": "資料結構/物件解構賦值.md"
+      "path": "Date structure/物件解構賦值.md"
     },
     {
       "basename": "Framework",
@@ -142,15 +146,15 @@
     },
     {
       "basename": "記憶體指標",
-      "path": "資料結構/記憶體指標.md"
+      "path": "Date structure/記憶體指標.md"
     },
     {
       "basename": "資料結構_演算法",
-      "path": "資料結構/資料結構_演算法.md"
+      "path": "Date structure/資料結構_演算法.md"
     },
     {
       "basename": "Callback",
-      "path": "資料結構/Callback.md"
+      "path": "Date structure/Callback.md"
     },
     {
       "basename": "關係人交易（Related Party Transactions）",
@@ -195,10 +199,6 @@
     {
       "basename": "章節二",
       "path": "framework/react/教學影片/章節二.md"
-    },
-    {
-      "basename": "章節一",
-      "path": "framework/react/教學影片/章節一.md"
     }
   ],
   "omittedPaths": [

@@ -11,10 +11,24 @@
             "id": "07986ad90e3217cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chinese on the Internet/基本知識.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "基本知識"
             }
           }
         ]
@@ -76,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -206,10 +219,12 @@
   },
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
+    "Chinese on the Internet/基本知識.md",
+    "Chinese on the Internet",
     "network/新通用頂級域名計畫（Next Round gTLD）.md",
     "kaspa/Runtime =「程式正在跑的時候」.md",
     "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
-    "資料結構/物件解構賦值.md",
+    "Date structure/物件解構賦值.md",
     "Nouns/Framework.md",
     "html/重點.md",
     "kaspa",
@@ -232,7 +247,6 @@
     "ai_agent/Nouns/MCP.md",
     "docker/Core Concepts of Docker.md",
     "os/行程管理（Process Management）.md",
-    "typescript/syntax/object.md",
     "windows",
     "linux/常用指令",
     "linux",
@@ -240,7 +254,6 @@
     "network",
     "html",
     "git",
-    "framework/vite",
-    "framework/react/教學影片"
+    "framework/vite"
   ]
 }
