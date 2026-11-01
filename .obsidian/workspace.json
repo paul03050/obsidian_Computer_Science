@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/基本知識.md",
+                "file": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基本知識"
+              "title": "網域移轉（Domain Transfer）"
             }
           }
         ]
@@ -219,7 +219,9 @@
   },
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
-    "Chinese on the Internet/基本知識.md",
+    "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md",
+    "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
+    "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
     "network/新通用頂級域名計畫（Next Round gTLD）.md",
     "kaspa/Runtime =「程式正在跑的時候」.md",
@@ -245,15 +247,12 @@
     "ai_agent/opencode/commands/review.md.md",
     "ai_agent/opencode/commands/learn.md.md",
     "ai_agent/Nouns/MCP.md",
-    "docker/Core Concepts of Docker.md",
-    "os/行程管理（Process Management）.md",
     "windows",
     "linux/常用指令",
     "linux",
     "browser",
     "network",
     "html",
-    "git",
-    "framework/vite"
+    "git"
   ]
 }

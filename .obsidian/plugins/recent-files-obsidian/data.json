@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "基本知識",
-      "path": "Chinese on the Internet/基本知識.md"
+      "basename": "網域移轉（Domain Transfer）",
+      "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
+    },
+    {
+      "basename": "SSL 憑證（SSL Certificate）",
+      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md"
     },
     {
       "basename": "新通用頂級域名計畫（Next Round gTLD）",
@@ -195,10 +199,6 @@
     {
       "basename": "章節三",
       "path": "framework/react/教學影片/章節三.md"
-    },
-    {
-      "basename": "章節二",
-      "path": "framework/react/教學影片/章節二.md"
     }
   ],
   "omittedPaths": [
