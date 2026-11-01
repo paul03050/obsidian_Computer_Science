@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edf7b46820daad5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/新通用頂級域名計畫（Next Round gTLD）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "新通用頂級域名計畫（Next Round gTLD）"
-            }
-          },
-          {
             "id": "07986ad90e3217cb",
             "type": "leaf",
             "state": {
@@ -41,8 +17,7 @@
               "title": "新分頁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4130fb8e05580919",
