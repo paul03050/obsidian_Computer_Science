@@ -9,6 +9,18 @@
       "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md"
     },
     {
+      "basename": "Web API",
+      "path": "network/Web API.md"
+    },
+    {
+      "basename": "RESTful APIs",
+      "path": "network/RESTful APIs.md"
+    },
+    {
+      "basename": "網路埠轉發（Port Forwarding）",
+      "path": "network/網路埠轉發（Port Forwarding）.md"
+    },
+    {
       "basename": "新通用頂級域名計畫（Next Round gTLD）",
       "path": "network/新通用頂級域名計畫（Next Round gTLD）.md"
     },
@@ -81,10 +93,6 @@
       "path": "SQL/基本語法.md"
     },
     {
-      "basename": "網路埠轉發（Port Forwarding）",
-      "path": "network/網路埠轉發（Port Forwarding）.md"
-    },
-    {
       "basename": "insight",
       "path": "ai_agent/insight.md"
     },
@@ -145,10 +153,6 @@
       "path": "git/git push PAT.md"
     },
     {
-      "basename": "RESTful APIs",
-      "path": "network/RESTful APIs.md"
-    },
-    {
       "basename": "記憶體指標",
       "path": "Date structure/記憶體指標.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "{children}",
       "path": "framework/react/name/{children}.md"
-    },
-    {
-      "basename": "章節三",
-      "path": "framework/react/教學影片/章節三.md"
     }
   ],
   "omittedPaths": [

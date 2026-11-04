@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +220,13 @@
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
     "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md",
+    "network/Web API.md",
+    "network/RESTful APIs.md",
+    "network/網路埠轉發（Port Forwarding）.md",
+    "network/新通用頂級域名計畫（Next Round gTLD）.md",
     "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
     "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
-    "network/新通用頂級域名計畫（Next Round gTLD）.md",
     "kaspa/Runtime =「程式正在跑的時候」.md",
     "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
     "Date structure/物件解構賦值.md",
@@ -241,11 +245,9 @@
     "typescript/syntax/Destructuring.md",
     "typescript/syntax/class.md",
     "SQL/基本語法.md",
-    "network/網路埠轉發（Port Forwarding）.md",
     "ai_agent/insight.md",
     "ai_agent/opencode/commands/review.md.md",
     "ai_agent/opencode/commands/learn.md.md",
-    "ai_agent/Nouns/MCP.md",
     "windows",
     "linux/常用指令",
     "linux",
