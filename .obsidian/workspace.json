@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md",
+                "file": "Chinese on the Internet/Basic Knowledge/未命名 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DNS 記錄 (DNS Records)"
+              "title": "未命名 1"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -220,6 +219,8 @@
   },
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
+    "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md",
+    "Chinese on the Internet/Basic Knowledge/未命名 1.md",
     "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md",
     "Chinese on the Internet/Basic Knowledge/SAN（多網域）憑證最核心的差異.md",
     "Chinese on the Internet/Basic Knowledge/Redirect.md",
@@ -229,7 +230,6 @@
     "Chinese on the Internet/Basic Knowledge/未命名.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
     "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
-    "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md",
     "Chinese on the Internet/Basic Knowledge/TMCH.md",
     "network/Web API.md",
     "network/RESTful APIs.md",
@@ -248,7 +248,6 @@
     "typescript/syntax/function_callback.md",
     "typescript/syntax/as unknown.md",
     "typescript/syntax/&&.md",
-    "os/windows/cmd.md",
     "windows",
     "linux/常用指令",
     "linux",

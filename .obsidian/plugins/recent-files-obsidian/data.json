@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "Chinese on the Internet/Basic Knowledge/未命名 1.md"
+    },
+    {
       "basename": "DNS 記錄 (DNS Records)",
       "path": "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "資料結構_演算法",
       "path": "Date structure/資料結構_演算法.md"
-    },
-    {
-      "basename": "Callback",
-      "path": "Date structure/Callback.md"
     }
   ],
   "omittedPaths": [
