@@ -31,10 +31,10 @@
 
 `.key` 和 `.crt` 只是代表檔案的「內容角色」，但在電腦裡儲存時，會使用不同的「封裝格式」。這兩者就像是衣服不同的摺法或不同的包裝盒： [[1](https://medium.com/chouhsiang/%E8%83%8C%E6%99%AF%E7%9F%A5%E8%AD%98-pem-%E8%88%87-der-dad659e0a40d), [2](https://blog.miniasp.com/post/2018/04/21/PKI-Digital-Certificate-Format-Convertion-Notes)]
 
-|格式副檔名|格式本質與特性|常見應用與搭配|
-|---|---|---|
-|**`.pem`**|**文字檔 (Base64 編碼)**  <br>用文字編輯器打開會看到 `-----BEGIN...-----`。  <br>它可以是純憑證、純私鑰，或是**把憑證與私鑰合併寫在同一個純文字檔裡**。|**Linux 體系**  <br>（如 Nginx、Apache）  <br>通常會分別指定：  <br>ssl_certificate `site.crt`;  <br>ssl_certificate_key `site.key`;|
-|**`.pfx`**|**二進位包裝檔 (PKCS#12)**  <br>它是一個**加密的保險箱**，用來把 `.crt`（憑證）和 `.key`（私鑰）**打包並加上密碼保護**成單一檔案。|**Windows 體系**  <br>（如 IIS 伺服器）  <br>因為 Windows 匯入憑證時，習慣一鍵匯入含有私鑰與憑證的單一加密檔案。|
+| 格式副檔名      | 格式本質與特性                                                                                               | 常見應用與搭配                                                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **`.pem`** | **文字檔 (Base64 編碼)**  <br>用文字編輯器打開會看到 `-----BEGIN...-----`。  <br>它可以是純憑證、純私鑰，或是**把憑證與私鑰合併寫在同一個純文字檔裡**。 | **Linux 體系**  <br>（如 Nginx、Apache）  <br>通常會分別指定：  <br>ssl_certificate `site.crt`;  <br>ssl_certificate_key `site.key`; |
+| **`.pfx`** | **二進位包裝檔 (PKCS#12)**  <br>它是一個**加密的保險箱**，用來把 `.crt`（憑證）和 `.key`（私鑰）**打包並加上密碼保護**成單一檔案。                | **Windows 體系**  <br>（如 IIS 伺服器）  <br>因為 Windows 匯入憑證時，習慣一鍵匯入含有私鑰與憑證的單一加密檔案。                                            |
 
 > 💡 **小迷思破解：**  
 > 有時候你會看到有人把 `.crt` 改名成 `.pem`，或是把 `.key` 改名成 `.pem`。這是因為 `.pem` 是一種文字容器格式；如果你的 `.crt` 檔打開來是文字（Base64 碼），那它在本質上就是一個 PEM 格式的憑證檔。 [[1](https://docs.aws.amazon.com/zh_tw/acm/latest/userguide/import-certificate-format.html), [2](https://blog.miniasp.com/post/2018/04/21/PKI-Digital-Certificate-Format-Convertion-Notes), [3](https://kanrays.net/tutorials/cpanel/ssl-tools/)]
