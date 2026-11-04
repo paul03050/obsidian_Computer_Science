@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DNS 記錄 (DNS Records)",
+      "path": "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md"
+    },
+    {
+      "basename": "Redirect",
+      "path": "Chinese on the Internet/Redirect.md"
+    },
+    {
       "basename": "ICANN RAA",
       "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Study Notes",
       "path": "70-prompt/Study Notes.md"
-    },
-    {
-      "basename": "2026-07-29",
-      "path": "999-Diary/2026-07-29.md"
-    },
-    {
-      "basename": "english practice",
-      "path": "70-prompt/english practice.md"
     }
   ],
   "omittedPaths": [
