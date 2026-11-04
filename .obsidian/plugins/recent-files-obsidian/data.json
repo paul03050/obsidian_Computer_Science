@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "域名鎖",
+      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
+    },
+    {
       "basename": "ICANN RAA",
       "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "台灣新鈳電子股份有限公司",
       "path": "50-Interview/Company_Jd/台灣新鈳電子股份有限公司.md"
-    },
-    {
-      "basename": "Study Notes",
-      "path": "70-prompt/Study Notes.md"
     }
   ],
   "omittedPaths": [
