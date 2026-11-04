@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ICANN RAA",
+      "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
+    },
+    {
+      "basename": "TMCH",
+      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
+    },
+    {
+      "basename": "主機託管、域名、SSL 憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
+    },
+    {
       "basename": "網域移轉（Domain Transfer）",
       "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "english practice",
       "path": "70-prompt/english practice.md"
-    },
-    {
-      "basename": "chromium",
-      "path": "os/browser/chromium.md"
-    },
-    {
-      "basename": "React.ReactNode",
-      "path": "framework/react/name/React.ReactNode.md"
-    },
-    {
-      "basename": "{children}",
-      "path": "framework/react/name/{children}.md"
     }
   ],
   "omittedPaths": [
