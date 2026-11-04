@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "四大類別的問題",
-      "path": "Chinese on the Internet/Basic Knowledge/四大類別的問題.md"
+      "basename": "DNS CNAME",
+      "path": "Chinese on the Internet/Basic Knowledge/DNS CNAME.md"
     },
     {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md"
+      "basename": "主機託管、域名、SSL 憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
     },
     {
       "basename": "域名鎖",
       "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
     },
     {
-      "basename": "主機託管、域名、SSL 憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
+      "basename": "四大類別的問題",
+      "path": "Chinese on the Internet/Basic Knowledge/四大類別的問題.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md"
     },
     {
       "basename": "Wildcard SSL",
@@ -195,10 +199,6 @@
     {
       "basename": "git push PAT",
       "path": "git/git push PAT.md"
-    },
-    {
-      "basename": "記憶體指標",
-      "path": "Date structure/記憶體指標.md"
     }
   ],
   "omittedPaths": [
