@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DNS 記錄 (DNS Records)",
+      "path": "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md"
+    },
+    {
       "basename": "Wildcard SSL",
       "path": "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "網域移轉（Domain Transfer）",
       "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
-    },
-    {
-      "basename": "DNS 記錄 (DNS Records)",
-      "path": "Chinese on the Internet/Basic Knowledge/DNS 記錄 (DNS Records).md"
     },
     {
       "basename": "TMCH",
