@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/域名鎖.md",
+                "file": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "域名鎖"
+              "title": "SSL 憑證（SSL Certificate）"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
+    "Chinese on the Internet/Basic Knowledge/未命名.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
+    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
     "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md",
     "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
     "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
@@ -247,7 +248,6 @@
     "os/windows/cmd.md",
     "os/windows/services.msc.md",
     "os/windows/PowerShell 的執行原則（Execution Policy）.md",
-    "typescript/syntax/extends.md",
     "windows",
     "linux/常用指令",
     "linux",

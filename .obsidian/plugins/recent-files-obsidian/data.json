@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SSL 憑證（SSL Certificate）",
+      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Chinese on the Internet/Basic Knowledge/未命名.md"
+    },
+    {
       "basename": "域名鎖",
       "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
     },
     {
       "basename": "ICANN RAA",
       "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
-    },
-    {
-      "basename": "SSL 憑證（SSL Certificate）",
-      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md"
     },
     {
       "basename": "網域移轉（Domain Transfer）",
@@ -195,10 +199,6 @@
     {
       "basename": "香港商富凱環球有限公司台灣分公司",
       "path": "50-Interview/Company_Jd/香港商富凱環球有限公司台灣分公司.md"
-    },
-    {
-      "basename": "台灣新鈳電子股份有限公司",
-      "path": "50-Interview/Company_Jd/台灣新鈳電子股份有限公司.md"
     }
   ],
   "omittedPaths": [
