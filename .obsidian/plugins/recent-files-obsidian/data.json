@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
+      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
+    },
+    {
+      "basename": "Base64",
+      "path": "Chinese on the Internet/Basic Knowledge/Base64.md"
+    },
+    {
       "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
       "path": "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Wildcard SSL",
       "path": "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md"
-    },
-    {
-      "basename": "Base64",
-      "path": "Chinese on the Internet/Basic Knowledge/Base64.md"
     },
     {
       "basename": "DNS 記錄 (DNS Records)",
@@ -195,10 +199,6 @@
     {
       "basename": "Comparison",
       "path": "framework/Comparison.md"
-    },
-    {
-      "basename": "init",
-      "path": "framework/vite/init.md"
     }
   ],
   "omittedPaths": [
