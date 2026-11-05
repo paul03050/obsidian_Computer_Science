@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@不是網域名稱",
+      "path": "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md"
+    },
+    {
       "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
       "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "泛型(Generics)",
       "path": "typescript/syntax/泛型(Generics).md"
-    },
-    {
-      "basename": "Comparison",
-      "path": "framework/Comparison.md"
     }
   ],
   "omittedPaths": [
