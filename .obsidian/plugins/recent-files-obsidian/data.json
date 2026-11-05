@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
+      "path": "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "Chinese on the Internet/Basic Knowledge/OpenSSL.md"
+    },
+    {
       "basename": "DNS CNAME",
       "path": "Chinese on the Internet/Basic Knowledge/DNS CNAME.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "init",
       "path": "framework/vite/init.md"
-    },
-    {
-      "basename": "常用指令",
-      "path": "git/常用指令.md"
-    },
-    {
-      "basename": "git push PAT",
-      "path": "git/git push PAT.md"
     }
   ],
   "omittedPaths": [

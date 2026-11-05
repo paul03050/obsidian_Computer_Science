@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/DNS CNAME.md",
+                "file": "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DNS CNAME"
+              "title": "SAN 憑證（Subject Alternative Name，主體別名憑證）"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "07986ad90e3217cb",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
+    "Chinese on the Internet/Basic Knowledge/OpenSSL.md",
+    "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
     "Chinese on the Internet/Basic Knowledge/DNS CNAME.md",
+    "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
     "Chinese on the Internet/Basic Knowledge/四大類別的問題.md",
     "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md",
@@ -246,8 +248,6 @@
     "html/重點.md",
     "kaspa",
     "ai_agent/Nouns/Function Calling.md",
-    "typescript/syntax/interface.md",
-    "typescript/syntax/function_callback.md",
     "windows",
     "linux/常用指令",
     "linux",
