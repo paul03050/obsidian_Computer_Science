@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
+                "file": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "国际化域名IDN"
+              "title": "Registry Domain ID（註冊機構網域識別碼）"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
+    "Chinese on the Internet/Basic Knowledge/Redirect.md",
+    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
     "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
+    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/Frequently Visited Websites",
     "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
     "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md",
@@ -236,7 +238,6 @@
     "Chinese on the Internet/Basic Knowledge/OpenSSL.md",
     "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md",
     "Chinese on the Internet/Basic Knowledge/TMCH.md",
-    "Chinese on the Internet/Basic Knowledge/Redirect.md",
     "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md",
     "Chinese on the Internet/Change Member or Domain Information",
     "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
@@ -246,7 +247,6 @@
     "network/Web API.md",
     "network/RESTful APIs.md",
     "network/網路埠轉發（Port Forwarding）.md",
-    "network/新通用頂級域名計畫（Next Round gTLD）.md",
     "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
     "kaspa",
