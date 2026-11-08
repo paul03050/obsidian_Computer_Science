@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SSL Shopper",
+      "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
+    },
+    {
       "basename": "Domain Status（域名狀態）",
       "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MCP",
       "path": "ai_agent/Nouns/MCP.md"
-    },
-    {
-      "basename": "Core Concepts of Docker",
-      "path": "docker/Core Concepts of Docker.md"
     }
   ],
   "omittedPaths": [
