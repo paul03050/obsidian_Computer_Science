@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "国际化域名IDN",
+      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
+    },
+    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "object",
       "path": "typescript/syntax/object.md"
-    },
-    {
-      "basename": "tsx",
-      "path": "typescript/init/tsx.md"
     }
   ],
   "omittedPaths": [

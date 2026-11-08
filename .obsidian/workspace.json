@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
+                "file": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ICANN lookup"
+              "title": "国际化域名IDN"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -220,9 +219,10 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
+    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
+    "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
     "Chinese on the Internet/Frequently Visited Websites",
     "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
-    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
     "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md",
@@ -254,7 +254,6 @@
     "linux/常用指令",
     "linux",
     "browser",
-    "network",
-    "html"
+    "network"
   ]
 }
