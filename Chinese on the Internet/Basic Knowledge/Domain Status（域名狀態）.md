@@ -107,3 +107,251 @@ clientDeleteProhibited
 Domain Status 不只是顯示網域是否正常，也能協助客服判斷網域操作為什麼受到限制。
 
 補充一點：以上主要是 `.com`、`.net` 等採用 EPP 狀態碼的 gTLD。不同 TLD（例如 `.tw`）可能有不同的狀態表示方式，不能直接套用所有規則。
+
+
+網域註冊商的客服會查詢客戶的 Domain Status（域名狀態），通常是因為客戶遇到某種操作異常，需要確認網域目前是否受到 Registry 或 Registrar 的限制。
+
+以你目前在網路中文擔任客戶關係維護專員的工作來說，可以把它理解成：
+
+> 客戶反映網域無法註冊、轉移、修改、續約或正常使用時，客服透過 Domain Status 判斷網域目前處於什麼狀態，以及問題可能出在哪個環節。
+
+## 一、最常見的 7 種客服情境
+
+### 1. 客戶想把網域轉移到其他註冊商
+
+常見情境
+
+客戶反映：
+
+「我想把網域從網路中文轉到其他註冊商，但對方說無法轉移。」
+
+客服查詢：
+
+- `clientTransferProhibited`
+    
+- `serverTransferProhibited`
+    
+- `pendingTransfer`
+    
+
+判斷方向：
+
+|查詢結果|可能原因|
+|---|---|
+|clientTransferProhibited|註冊商端設定轉移鎖定|
+|serverTransferProhibited|Registry 端設定轉移限制|
+|pendingTransfer|已經有轉移申請正在處理|
+
+客服下一步：確認網域是否符合轉移資格、是否需要解除鎖定，以及是否已有轉移申請。
+
+### 2. 客戶想修改網域資料，但系統不允許
+
+客戶反映：
+
+「為什麼我無法修改網域的註冊人資料或聯絡信箱？」
+
+客服查詢：
+
+- `clientUpdateProhibited`
+    
+- `serverUpdateProhibited`
+    
+
+可能原因：
+
+- 網域受到修改鎖定。
+    
+- Registry 有特定修改限制。
+    
+- 網域正在進行其他程序。
+    
+
+客服下一步：確認是哪一端設定限制，再依照相關規定處理。
+
+### 3. 客戶發現網站無法正常開啟
+
+需要區分問題類型
+
+客戶反映：
+
+「我的網域突然無法連線，網站打不開。」
+
+客服可以先查詢 Domain Status，例如：
+
+- `ok`
+    
+- `inactive`
+    
+- `clientHold`
+    
+- `serverHold`
+    
+
+其中兩個特別重要：
+
+|狀態|意義|
+|---|---|
+|`clientHold`|註冊商端暫停網域的 DNS 委派|
+|`serverHold`|Registry 端暫停網域的 DNS 委派|
+
+這兩種狀態可能導致網域無法正常解析。
+
+可能原因包括：
+
+- 網域註冊資料驗證問題。
+    
+- 網域違反相關政策。
+    
+- 註冊或管理程序出現異常。
+    
+- 涉及主管機關或 Registry 的限制。
+    
+
+客服下一步：確認是否為網域狀態造成的解析問題，而不是直接認定網站主機故障。
+
+### 4. 客戶反映網域到期後無法使用
+
+客戶反映：
+
+「我明明已經續約，為什麼網站還是不能使用？」
+
+客服查詢：
+
+- `autoRenewPeriod`
+    
+- `redemptionPeriod`
+    
+- `pendingDelete`
+    
+
+判斷方向：
+
+|狀態|可能情境|
+|---|---|
+|autoRenewPeriod|Registry 處於自動續約寬限期間|
+|redemptionPeriod|網域進入贖回階段|
+|pendingDelete|網域即將從 Registry 資料庫刪除|
+
+客服下一步：確認續約是否成功、網域是否已進入贖回或刪除程序，以及是否還能恢復。
+
+注意：`autoRenewPeriod` 不代表客戶已經完成付款，仍須核對註冊商的訂單及帳務紀錄。
+
+### 5. 客戶反映網域無法刪除
+
+客戶反映：
+
+「我不想繼續使用這個網域，為什麼無法刪除？」
+
+客服查詢：
+
+- `clientDeleteProhibited`
+    
+- `serverDeleteProhibited`
+    
+
+判斷方向：
+
+- 是否啟用刪除鎖定？
+    
+- 是否有其他未完成的網域操作？
+    
+- 是否受到 Registry 政策限制？
+    
+
+客服下一步：確認刪除限制來源，以及是否符合解除限制的條件。
+
+### 6. 客戶反映網域註冊成功，但無法正常使用
+
+客戶反映：
+
+「我已經買好網域，為什麼網站還是無法開啟？」
+
+客服除了查詢 Domain Status，也應確認：
+
+1. 網域是否已成功註冊？
+    
+2. Nameservers 是否正確？
+    
+3. DNS 記錄是否設定完成？
+    
+4. 是否有 `clientHold` 或 `serverHold`？
+    
+5. DNSSEC 是否設定錯誤？
+    
+
+這裡要注意：即使 Domain Status 顯示 `ok`，也不代表 DNS 一定設定正確，更不代表網站主機正常。
+
+### 7. 客戶詢問網域目前是否正常
+
+客戶反映：
+
+「可以幫我確認這個網域目前有沒有異常嗎？」
+
+客服可以透過 RDAP / ICANN Lookup 查詢：
+
+- Domain Status
+    
+- Registrar
+    
+- Expiration Date
+    
+- Nameservers
+    
+- DNSSEC
+    
+
+再搭配公司內部系統確認網域的訂單、續約、付款及操作紀錄。
+
+## 二、客服實際判斷流程
+
+我建議你把網域狀態查詢整理成以下流程：
+
+客戶反映網域異常
+
+查詢 Domain Status
+
+狀態正常
+
+繼續檢查 DNS、主機、SSL、帳務或設定。
+
+狀態異常
+
+確認狀態碼、限制來源及可否解除。
+
+依照公司 SOP 處理，必要時向上游 Registry 或服務供應商升級
+
+## 三、建議優先熟悉的 Domain Status
+
+如果你剛開始接觸網域客服，不需要一次記住所有狀態碼，我會建議先掌握這 10 個：
+
+|狀態碼|核心意義|
+|---|---|
+|`ok`|正常|
+|`inactive`|尚未具備正常委派所需條件|
+|`clientTransferProhibited`|註冊商端禁止轉移|
+|`serverTransferProhibited`|Registry 端禁止轉移|
+|`clientUpdateProhibited`|註冊商端禁止修改|
+|`clientDeleteProhibited`|註冊商端禁止刪除|
+|`clientHold`|註冊商端暫停 DNS 委派|
+|`serverHold`|Registry 端暫停 DNS 委派|
+|`pendingTransfer`|正在轉移|
+|`redemptionPeriod`|贖回期間|
+
+## 四、我認為你最需要建立的客服觀念
+
+客戶說「網域不能用」，其實可能是完全不同的問題。
+
+|客戶問題|優先檢查方向|
+|---|---|
+|網域不能轉移|Domain Status、EPP/AuthInfo|
+|網域不能修改|Domain Status、修改權限|
+|網域不能解析|Domain Status、DNS、DNSSEC|
+|網站無法開啟|DNS、主機、SSL、網站服務|
+|網域到期無法使用|續約紀錄、Domain Status|
+|SSL 無法核發|DCV 驗證、DNS、CA 狀態|
+
+最重要的觀念：Domain Status 是客服排查問題的其中一項工具，不是所有網域異常的唯一判斷依據。
+
+例如客戶網站無法開啟，但 Domain Status 是 `ok`，這時就應該往 DNS 設定、DNSSEC、主機或 SSL 方向繼續排查，而不是一直停留在網域註冊狀態。
+
+這套判斷方式也能幫助你避免把所有技術問題都當成註冊商端的問題。
