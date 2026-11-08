@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "TXT 記錄",
+      "path": "Chinese on the Internet/DNS解析/TXT 記錄.md"
+    },
+    {
+      "basename": "DNS SRV（Service）紀錄",
+      "path": "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md"
+    },
+    {
+      "basename": "@不是網域名稱",
+      "path": "Chinese on the Internet/DNS解析/@不是網域名稱.md"
+    },
+    {
+      "basename": "主機託管、域名、SSL 憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
+    },
+    {
+      "basename": "国际化域名IDN",
+      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
+    },
+    {
+      "basename": "域名鎖",
+      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
+      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
+    },
+    {
       "basename": "網域移轉（Domain Transfer）",
       "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
     },
@@ -37,10 +69,6 @@
       "path": "Chinese on the Internet/DNS解析/DNS CNAME.md"
     },
     {
-      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
-      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
-    },
-    {
       "basename": "SSL Shopper",
       "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
     },
@@ -53,28 +81,8 @@
       "path": "Chinese on the Internet/Basic Knowledge/Redirect.md"
     },
     {
-      "basename": "国际化域名IDN",
-      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
-    },
-    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
-    },
-    {
-      "basename": "主機託管、域名、SSL 憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
-    },
-    {
-      "basename": "@不是網域名稱",
-      "path": "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md"
-    },
-    {
-      "basename": "域名鎖",
-      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md"
     },
     {
       "basename": "OpenSSL",
@@ -191,14 +199,6 @@
     {
       "basename": "review.md",
       "path": "ai_agent/opencode/commands/review.md.md"
-    },
-    {
-      "basename": "learn.md",
-      "path": "ai_agent/opencode/commands/learn.md.md"
-    },
-    {
-      "basename": "MCP",
-      "path": "ai_agent/Nouns/MCP.md"
     }
   ],
   "omittedPaths": [
