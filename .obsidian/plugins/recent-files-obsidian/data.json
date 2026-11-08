@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "NC-ACME 自動換證系統",
+      "path": "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md"
+    },
+    {
       "basename": "TXT 記錄",
       "path": "Chinese on the Internet/DNS解析/TXT 記錄.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "insight",
       "path": "ai_agent/insight.md"
-    },
-    {
-      "basename": "review.md",
-      "path": "ai_agent/opencode/commands/review.md.md"
     }
   ],
   "omittedPaths": [

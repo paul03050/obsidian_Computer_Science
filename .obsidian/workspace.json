@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/DNS解析/TXT 記錄.md",
+                "file": "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TXT 記錄"
+              "title": "NC-ACME 自動換證系統"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md",
     "Chinese on the Internet/DNS解析/TXT 記錄.md",
+    "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md",
+    "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md",
     "Chinese on the Internet/DNS解析/@不是網域名稱.md",
     "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
     "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
@@ -247,7 +248,6 @@
     "Chinese on the Internet/Change Member or Domain Information",
     "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
     "Chinese on the Internet/DNS解析/DNS 記錄 (DNS Records).md",
-    "Chinese on the Internet/Basic Knowledge/SAN（多網域）憑證最核心的差異.md",
     "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
     "kaspa",
