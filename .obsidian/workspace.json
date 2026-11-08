@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md",
+                "file": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NC-ACME 自動換證系統"
+              "title": "Sectigo SSL 憑證有效期限縮短公告命名"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -219,41 +220,41 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/DNS解析/TXT 記錄.md",
-    "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md",
-    "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md",
-    "Chinese on the Internet/DNS解析/@不是網域名稱.md",
-    "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
-    "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
-    "Chinese on the Internet/Basic Knowledge/域名鎖.md",
-    "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md",
-    "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md",
-    "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
-    "Chinese on the Internet/Basic Knowledge/Base64.md",
+    "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md",
+    "Chinese on the Internet/SSLCA/Wildcard SSL.md",
+    "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
+    "Chinese on the Internet/SSLCA/OpenSSL.md",
+    "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md",
+    "Chinese on the Internet/SSLCA/Base64.md",
+    "Chinese on the Internet/Basic Knowledge/TMCH.md",
+    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
+    "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
+    "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
+    "Chinese on the Internet/Basic Knowledge/Redirect.md",
+    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
     "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
     "Chinese on the Internet/Basic Knowledge/Domain Registrar.md",
-    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
-    "Chinese on the Internet/Basic Knowledge/TMCH.md",
-    "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md",
-    "Chinese on the Internet/Basic Knowledge/Domain Name System Security Extensions.md",
+    "Chinese on the Internet/DNS解析/Domain Name System Security Extensions.md",
+    "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md",
+    "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
+    "Chinese on the Internet/Basic Knowledge/域名鎖.md",
+    "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
+    "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
+    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
+    "Chinese on the Internet/SSLCA",
+    "Chinese on the Internet/DNS解析/TXT 記錄.md",
+    "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md",
+    "Chinese on the Internet/DNS解析/@不是網域名稱.md",
     "Chinese on the Internet/DNS解析/DNS CNAME.md",
     "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md",
     "Chinese on the Internet/DNS解析",
-    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
-    "Chinese on the Internet/Basic Knowledge/Redirect.md",
-    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/Frequently Visited Websites",
-    "Chinese on the Internet/Basic Knowledge/OpenSSL.md",
-    "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md",
     "Chinese on the Internet/Change Member or Domain Information",
-    "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
-    "Chinese on the Internet/DNS解析/DNS 記錄 (DNS Records).md",
     "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
     "kaspa",
     "windows",
     "linux/常用指令",
-    "linux",
-    "browser"
+    "linux"
   ]
 }

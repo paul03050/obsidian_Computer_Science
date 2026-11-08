@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Sectigo SSL 憑證有效期限縮短公告命名",
+      "path": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md"
+    },
+    {
+      "basename": "SSL 憑證（SSL Certificate）",
+      "path": "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md"
+    },
+    {
+      "basename": "Wildcard SSL",
+      "path": "Chinese on the Internet/SSLCA/Wildcard SSL.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
+    },
+    {
       "basename": "NC-ACME 自動換證系統",
-      "path": "Chinese on the Internet/Basic Knowledge/NC-ACME 自動換證系統.md"
+      "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
+    },
+    {
+      "basename": "Base64",
+      "path": "Chinese on the Internet/SSLCA/Base64.md"
+    },
+    {
+      "basename": "TMCH",
+      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
+    },
+    {
+      "basename": "Registry Domain ID（註冊機構網域識別碼）",
+      "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
+    },
+    {
+      "basename": "SAN（多網域）憑證最核心的差異",
+      "path": "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md"
+    },
+    {
+      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
+      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
+    },
+    {
+      "basename": "Redirect",
+      "path": "Chinese on the Internet/Basic Knowledge/Redirect.md"
+    },
+    {
+      "basename": "ICANN RAA",
+      "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
+    },
+    {
+      "basename": "Domain Status（域名狀態）",
+      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
+    },
+    {
+      "basename": "Domain Registrar",
+      "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
+    },
+    {
+      "basename": "Domain Name System Security Extensions",
+      "path": "Chinese on the Internet/DNS解析/Domain Name System Security Extensions.md"
+    },
+    {
+      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
+      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
+    },
+    {
+      "basename": "網域移轉（Domain Transfer）",
+      "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
+    },
+    {
+      "basename": "域名鎖",
+      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
+    },
+    {
+      "basename": "国际化域名IDN",
+      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
+    },
+    {
+      "basename": "主機託管、域名、SSL 憑證",
+      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
     },
     {
       "basename": "TXT 記錄",
@@ -17,58 +97,6 @@
       "path": "Chinese on the Internet/DNS解析/@不是網域名稱.md"
     },
     {
-      "basename": "主機託管、域名、SSL 憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
-    },
-    {
-      "basename": "国际化域名IDN",
-      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
-    },
-    {
-      "basename": "域名鎖",
-      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/部署 SSL TLS 網路安全憑證.md"
-    },
-    {
-      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
-      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
-    },
-    {
-      "basename": "網域移轉（Domain Transfer）",
-      "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
-    },
-    {
-      "basename": "Base64",
-      "path": "Chinese on the Internet/Basic Knowledge/Base64.md"
-    },
-    {
-      "basename": "Domain Status（域名狀態）",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
-    },
-    {
-      "basename": "Domain Registrar",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
-    },
-    {
-      "basename": "ICANN RAA",
-      "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
-    },
-    {
-      "basename": "TMCH",
-      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
-    },
-    {
-      "basename": "Wildcard SSL",
-      "path": "Chinese on the Internet/Basic Knowledge/Wildcard SSL.md"
-    },
-    {
-      "basename": "Domain Name System Security Extensions",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Name System Security Extensions.md"
-    },
-    {
       "basename": "DNS CNAME",
       "path": "Chinese on the Internet/DNS解析/DNS CNAME.md"
     },
@@ -77,40 +105,16 @@
       "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
     },
     {
-      "basename": "Registry Domain ID（註冊機構網域識別碼）",
-      "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
-    },
-    {
-      "basename": "Redirect",
-      "path": "Chinese on the Internet/Basic Knowledge/Redirect.md"
-    },
-    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
-    },
-    {
-      "basename": "OpenSSL",
-      "path": "Chinese on the Internet/Basic Knowledge/OpenSSL.md"
     },
     {
       "basename": "法人登記證書  商業登記抄本 變更登記書",
       "path": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md"
     },
     {
-      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
-      "path": "Chinese on the Internet/Basic Knowledge/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
-    },
-    {
       "basename": "DNS 記錄 (DNS Records)",
       "path": "Chinese on the Internet/DNS解析/DNS 記錄 (DNS Records).md"
-    },
-    {
-      "basename": "SAN（多網域）憑證最核心的差異",
-      "path": "Chinese on the Internet/Basic Knowledge/SAN（多網域）憑證最核心的差異.md"
-    },
-    {
-      "basename": "SSL 憑證（SSL Certificate）",
-      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md"
     },
     {
       "basename": "Web API",
@@ -195,10 +199,6 @@
     {
       "basename": "基本語法",
       "path": "SQL/基本語法.md"
-    },
-    {
-      "basename": "insight",
-      "path": "ai_agent/insight.md"
     }
   ],
   "omittedPaths": [
