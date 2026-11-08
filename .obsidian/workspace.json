@@ -11,10 +11,24 @@
             "id": "d32ce75f20da9cc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "法人登記證書  商業登記抄本 變更登記書"
             }
           }
         ]
@@ -205,6 +219,8 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
+    "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md",
+    "Chinese on the Internet/Change Member or Domain Information",
     "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md",
     "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md",
     "Chinese on the Internet/Basic Knowledge/Base64.md",
@@ -232,14 +248,12 @@
     "kaspa/Runtime =「程式正在跑的時候」.md",
     "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md",
     "Date structure/物件解構賦值.md",
-    "Nouns/Framework.md",
     "kaspa",
     "windows",
     "linux/常用指令",
     "linux",
     "browser",
     "network",
-    "html",
-    "git"
+    "html"
   ]
 }

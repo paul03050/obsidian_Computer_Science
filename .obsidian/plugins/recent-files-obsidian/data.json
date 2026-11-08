@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "法人登記證書  商業登記抄本 變更登記書",
+      "path": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md"
+    },
+    {
       "basename": "@不是網域名稱",
       "path": "Chinese on the Internet/Basic Knowledge/@不是網域名稱.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "教學影片",
       "path": "typescript/教學影片.md"
-    },
-    {
-      "basename": "泛型(Generics)",
-      "path": "typescript/syntax/泛型(Generics).md"
     }
   ],
   "omittedPaths": [
