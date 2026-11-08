@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Chinese on the Internet/Host Installation/未命名.md"
+    },
+    {
       "basename": "DNS A 記錄）時，必須指定一個 IP 位址。",
-      "path": "Chinese on the Internet/DNS解析/DNS A 記錄）時，必須指定一個 IP 位址。.md"
+      "path": "Chinese on the Internet/DNS Resolution/DNS A 記錄）時，必須指定一個 IP 位址。.md"
     },
     {
       "basename": "Sectigo SSL 憑證有效期限縮短公告命名",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "Domain Name System Security Extensions",
-      "path": "Chinese on the Internet/DNS解析/Domain Name System Security Extensions.md"
+      "path": "Chinese on the Internet/DNS Resolution/Domain Name System Security Extensions.md"
     },
     {
       "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
@@ -90,19 +94,19 @@
     },
     {
       "basename": "TXT 記錄",
-      "path": "Chinese on the Internet/DNS解析/TXT 記錄.md"
+      "path": "Chinese on the Internet/DNS Resolution/TXT 記錄.md"
     },
     {
       "basename": "DNS SRV（Service）紀錄",
-      "path": "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md"
+      "path": "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md"
     },
     {
       "basename": "@不是網域名稱",
-      "path": "Chinese on the Internet/DNS解析/@不是網域名稱.md"
+      "path": "Chinese on the Internet/DNS Resolution/@不是網域名稱.md"
     },
     {
       "basename": "DNS CNAME",
-      "path": "Chinese on the Internet/DNS解析/DNS CNAME.md"
+      "path": "Chinese on the Internet/DNS Resolution/DNS CNAME.md"
     },
     {
       "basename": "SSL Shopper",
@@ -118,7 +122,7 @@
     },
     {
       "basename": "DNS 記錄 (DNS Records)",
-      "path": "Chinese on the Internet/DNS解析/DNS 記錄 (DNS Records).md"
+      "path": "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md"
     },
     {
       "basename": "Web API",
@@ -195,10 +199,6 @@
     {
       "basename": "Destructuring",
       "path": "typescript/syntax/Destructuring.md"
-    },
-    {
-      "basename": "class",
-      "path": "typescript/syntax/class.md"
     }
   ],
   "omittedPaths": [
