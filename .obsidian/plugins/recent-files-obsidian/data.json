@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ICANN lookup",
+      "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
+    },
+    {
       "basename": "主機託管、域名、SSL 憑證",
       "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tsx",
       "path": "typescript/init/tsx.md"
-    },
-    {
-      "basename": "install",
-      "path": "typescript/init/install.md"
     }
   ],
   "omittedPaths": [
