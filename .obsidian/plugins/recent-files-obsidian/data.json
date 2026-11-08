@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Domain Status（域名狀態）",
+      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
+    },
+    {
       "basename": "Registry Domain ID（註冊機構網域識別碼）",
       "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Core Concepts of Docker",
       "path": "docker/Core Concepts of Docker.md"
-    },
-    {
-      "basename": "行程管理（Process Management）",
-      "path": "os/行程管理（Process Management）.md"
     }
   ],
   "omittedPaths": [

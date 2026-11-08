@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
+                "file": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Registry Domain ID（註冊機構網域識別碼）"
+              "title": "Domain Status（域名狀態）"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/Redirect.md",
     "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
+    "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
+    "Chinese on the Internet/Basic Knowledge/Redirect.md",
     "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
     "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/Frequently Visited Websites",
@@ -246,7 +247,6 @@
     "Chinese on the Internet/Basic Knowledge/SSL 憑證（SSL Certificate）.md",
     "network/Web API.md",
     "network/RESTful APIs.md",
-    "network/網路埠轉發（Port Forwarding）.md",
     "Chinese on the Internet/Basic Knowledge",
     "Chinese on the Internet",
     "kaspa",
