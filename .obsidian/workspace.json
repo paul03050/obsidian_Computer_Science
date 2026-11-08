@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
+                "file": "Chinese on the Internet/DNS解析/DNS A 記錄）時，必須指定一個 IP 位址。.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sectigo SSL 憑證有效期限縮短公告命名"
+              "title": "DNS A 記錄）時，必須指定一個 IP 位址。"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -220,6 +219,8 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
+    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
+    "Chinese on the Internet/DNS解析/DNS A 記錄）時，必須指定一個 IP 位址。.md",
     "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md",
     "Chinese on the Internet/SSLCA/Wildcard SSL.md",
     "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
@@ -240,13 +241,11 @@
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
     "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
     "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
-    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS解析/TXT 記錄.md",
     "Chinese on the Internet/DNS解析/DNS SRV（Service）紀錄.md",
     "Chinese on the Internet/DNS解析/@不是網域名稱.md",
     "Chinese on the Internet/DNS解析/DNS CNAME.md",
-    "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md",
     "Chinese on the Internet/DNS解析",
     "Chinese on the Internet/Frequently Visited Websites",
     "Chinese on the Internet/Change Member or Domain Information",

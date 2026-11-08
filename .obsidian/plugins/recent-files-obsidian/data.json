@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DNS A 記錄）時，必須指定一個 IP 位址。",
+      "path": "Chinese on the Internet/DNS解析/DNS A 記錄）時，必須指定一個 IP 位址。.md"
+    },
+    {
       "basename": "Sectigo SSL 憑證有效期限縮短公告命名",
       "path": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "class",
       "path": "typescript/syntax/class.md"
-    },
-    {
-      "basename": "基本語法",
-      "path": "SQL/基本語法.md"
     }
   ],
   "omittedPaths": [
