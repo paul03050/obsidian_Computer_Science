@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md",
+                "file": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FQDN vs Common Name (CN)"
+              "title": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）"
             }
           }
         ]
@@ -219,8 +219,8 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md",
+    "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
     "Chinese on the Internet/SSLCA/Base64.md",
     "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md",

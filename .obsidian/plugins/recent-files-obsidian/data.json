@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "FQDN vs Common Name (CN)",
-      "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
-    },
-    {
       "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
       "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
+    },
+    {
+      "basename": "FQDN vs Common Name (CN)",
+      "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
     },
     {
       "basename": "部署 SSL TLS 網路安全憑證",
