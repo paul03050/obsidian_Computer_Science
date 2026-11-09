@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "FQDN vs Common Name (CN)",
+      "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
+    },
+    {
       "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
       "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PowerShell 的執行原則（Execution Policy）",
       "path": "os/windows/PowerShell 的執行原則（Execution Policy）.md"
-    },
-    {
-      "basename": "extends",
-      "path": "typescript/syntax/extends.md"
     }
   ],
   "omittedPaths": [
