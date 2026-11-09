@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
+                "file": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plesk 憑證安裝與管理指南"
+              "title": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）"
             }
           }
         ]
@@ -219,20 +219,21 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/DNS Resolution/DNS A 記錄）時，必須指定一個 IP 位址。.md",
-    "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
-    "Chinese on the Internet/Host Installation",
-    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
+    "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
+    "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
+    "Chinese on the Internet/SSLCA/Base64.md",
     "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md",
     "Chinese on the Internet/SSLCA/Wildcard SSL.md",
-    "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
+    "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
     "Chinese on the Internet/SSLCA/OpenSSL.md",
     "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md",
-    "Chinese on the Internet/SSLCA/Base64.md",
+    "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
+    "Chinese on the Internet/DNS Resolution/DNS A 記錄）時，必須指定一個 IP 位址。.md",
+    "Chinese on the Internet/Host Installation",
+    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
     "Chinese on the Internet/Basic Knowledge/TMCH.md",
     "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
     "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
-    "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
     "Chinese on the Internet/Basic Knowledge/Redirect.md",
     "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
     "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
@@ -246,7 +247,6 @@
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution/TXT 記錄.md",
     "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md",
-    "Chinese on the Internet/DNS Resolution/@不是網域名稱.md",
     "Chinese on the Internet/DNS Resolution",
     "Chinese on the Internet/Frequently Visited Websites",
     "Chinese on the Internet/Change Member or Domain Information",

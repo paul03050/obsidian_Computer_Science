@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
+      "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "Base64",
+      "path": "Chinese on the Internet/SSLCA/Base64.md"
+    },
+    {
+      "basename": "SSL 憑證（SSL Certificate）",
+      "path": "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md"
+    },
+    {
+      "basename": "Wildcard SSL",
+      "path": "Chinese on the Internet/SSLCA/Wildcard SSL.md"
+    },
+    {
+      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
+      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
+    },
+    {
+      "basename": "OpenSSL",
+      "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
+    },
+    {
+      "basename": "NC-ACME 自動換證系統",
+      "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
+    },
+    {
       "basename": "Plesk 憑證安裝與管理指南",
       "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
     },
@@ -13,30 +45,6 @@
       "path": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md"
     },
     {
-      "basename": "SSL 憑證（SSL Certificate）",
-      "path": "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md"
-    },
-    {
-      "basename": "Wildcard SSL",
-      "path": "Chinese on the Internet/SSLCA/Wildcard SSL.md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
-    },
-    {
-      "basename": "OpenSSL",
-      "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
-    },
-    {
-      "basename": "NC-ACME 自動換證系統",
-      "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
-    },
-    {
-      "basename": "Base64",
-      "path": "Chinese on the Internet/SSLCA/Base64.md"
-    },
-    {
       "basename": "TMCH",
       "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "SAN（多網域）憑證最核心的差異",
       "path": "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md"
-    },
-    {
-      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
-      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
     },
     {
       "basename": "Redirect",
@@ -195,10 +199,6 @@
     {
       "basename": "extends",
       "path": "typescript/syntax/extends.md"
-    },
-    {
-      "basename": "Destructuring",
-      "path": "typescript/syntax/Destructuring.md"
     }
   ],
   "omittedPaths": [
