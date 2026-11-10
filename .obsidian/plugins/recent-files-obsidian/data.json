@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CA Bundle 的內容 Nginx Apache IIS",
-      "path": "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md"
-    },
-    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
+    },
+    {
+      "basename": "SSL 憑證申請與資料遞交操作指南",
+      "path": "Chinese on the Internet/SSLCA/SSL 憑證申請與資料遞交操作指南.md"
+    },
+    {
+      "basename": "CA Bundle 的內容 Nginx Apache IIS",
+      "path": "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md"
     },
     {
       "basename": "Plesk 憑證安裝與管理指南",
@@ -195,10 +199,6 @@
     {
       "basename": "DNS SRV（Service）紀錄",
       "path": "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md"
-    },
-    {
-      "basename": "SSL Shopper",
-      "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
     }
   ],
   "omittedPaths": [
