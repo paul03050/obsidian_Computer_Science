@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "台灣網域名稱註冊與管理指南",
+      "path": "Chinese on the Internet/Basic Knowledge/台灣網域名稱註冊與管理指南.md"
+    },
+    {
+      "basename": "DNS MX 郵件交換記錄（Mail Exchange Record）",
+      "path": "Chinese on the Internet/DNS Resolution/DNS MX 郵件交換記錄（Mail Exchange Record）.md"
+    },
+    {
       "basename": "SSL TLS 憑證運作原理與需求",
       "path": "Chinese on the Internet/SSLCA/SSL TLS 憑證運作原理與需求.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "法人登記證書  商業登記抄本 變更登記書",
       "path": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md"
-    },
-    {
-      "basename": "Web API",
-      "path": "network/Web API.md"
-    },
-    {
-      "basename": "RESTful APIs",
-      "path": "network/RESTful APIs.md"
     }
   ],
   "omittedPaths": [

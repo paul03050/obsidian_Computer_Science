@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/SSL TLS 憑證運作原理與需求.md",
+                "file": "Chinese on the Internet/Basic Knowledge/台灣網域名稱註冊與管理指南.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSL TLS 憑證運作原理與需求"
+              "title": "台灣網域名稱註冊與管理指南"
             }
           }
         ]
@@ -219,8 +219,10 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/修改域名信箱.md",
+    "Chinese on the Internet/DNS Resolution/DNS MX 郵件交換記錄（Mail Exchange Record）.md",
+    "Chinese on the Internet/Basic Knowledge/台灣網域名稱註冊與管理指南.md",
     "Chinese on the Internet/SSLCA/SSL TLS 憑證運作原理與需求.md",
+    "Chinese on the Internet/Basic Knowledge/修改域名信箱.md",
     "Chinese on the Internet/DNS Resolution/DNS CNAME.md",
     "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md",
     "Chinese on the Internet/DNS Resolution/@不是網域名稱.md",
@@ -243,8 +245,6 @@
     "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md",
     "Chinese on the Internet/SSLCA/Base64.md",
     "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md",
-    "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md",
-    "Chinese on the Internet/SSLCA/Wildcard SSL.md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
