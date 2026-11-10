@@ -233,3 +233,46 @@ Sectigo 體系通常會有 2 到 3 張（中繼 + 根），數量不對就要回
           
         
     - **Private Key**：只有自己持有、用來證明身分的秘密鑰匙。
+
+
+**是的，CA Bundle 檔案本質上就是將多個中繼憑證（Intermediate CA）以及根憑證（Root CA）的內容，透過複製貼上（合併）到同一個文字檔中來建立的。** [[1](https://blog.cptsai.com/2021/05/04/cert-chain-missing), [2](https://www.net-chinese.com.tw/nc5_file/services/CSR_Windows_IIS.pdf)]
+
+當你向憑證機構（CA）申請 SSL 憑證時，有時會收到多個獨立的 `.crt` 檔（例如一個網頁憑證和兩、三個中繼鏈憑證）。如果你需要自行製作 `ca-bundle.crt`，操作邏輯與注意事項如下： [[1](https://simular.co/blog/post/75-crt-ca-bundle-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC), [2](https://www.net-chinese.com.tw/nc5_file/services/CSR_Windows_IIS.pdf)]
+
+1. 怎麼複製貼上？
+
+你只需要使用文字編輯器（如 Notepad++、VS Code、Vim）將每個 `.crt` 檔案的內容打開，並全部複製到同一個新檔案中即可。內容看起來會像這樣： [[1](https://www.ibm.com/docs/zh-tw/qsip/7.5.0?topic=au-configuring-updates-behind-proxy-server-that-uses-ssl-tls-interception), [2](https://websitebuilder.com.tw/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/ssl-%E6%86%91%E8%AD%89/)]
+
+text
+
+```
+-----BEGIN CERTIFICATE-----
+(第一個中繼憑證的加密文字)
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+(第二個中繼憑證的加密文字)
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+(根憑證的加密文字，通常可加可不加)
+-----END CERTIFICATE-----
+```
+
+請謹慎使用程式碼。
+
+2. ⚠️ 複製貼上的關鍵：順序非常重要
+
+在合併多個中繼憑證時，**絕對不能隨便亂排順序**。瀏覽器是依序向上追溯信任鏈的，排列必須遵循**「由下往上」**的邏輯： [[1](https://simular.co/blog/post/75-crt-ca-bundle-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC)]
+
+1. **最上方**：最接近你網站憑證的「一級中繼憑證」（簽發你網站憑證的那張）。
+2. **中間**：更上層的「二級中繼憑證」（如果有的話）。
+3. **最下方**：最頂層的「根憑證（Root CA）」（現代網頁伺服器大多不需要放根憑證，因為瀏覽器早已內建，但放了也不會錯）。 [[1](https://www.ublink.org/index.php/service/tech-know/umail-v5-tech/ca-ssl-umail-ssl-apache), [2](https://simular.co/blog/post/75-crt-ca-bundle-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC)]
+
+_註：如果順序顛倒，部分瀏覽器或特定工具（如 curl、手機 App、API 串接）會因為無法正確解析憑證鏈而回報「憑證不受信任」或安全連線失敗的錯誤。_ [[1](https://simular.co/blog/post/75-crt-ca-bundle-%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC)]
+
+3. 常見伺服器的部署方式
+
+- **cPanel 或網頁管理後台**：通常會有獨立的欄位。你把網站憑證貼在「CRT」欄位，把多個中繼憑證依序合併貼在「CA Bundle」欄位即可。 [[1](https://websitebuilder.com.tw/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/ssl-%E6%86%91%E8%AD%89/)]
+- **Nginx**：Nginx 不使用單獨的 CA Bundle 欄位。你必須把**「你的網站憑證」排在最前面**，後面緊接著貼上「中繼憑證 1」、「中繼憑證 2」，全部合併成一個 `ssl_certificate.crt` 檔案。 [[1](https://websitebuilder.com.tw/%E7%B6%B2%E7%AB%99%E6%9E%B6%E8%A8%AD/ssl-%E6%86%91%E8%AD%89/)]
+- **Apache**：在傳統配置中，網站憑證會指定給 `SSLCertificateFile`，而合併好中繼憑證的 `ca-bundle.crt` 則會指定給 `SSLCertificateChainFile` 欄位。
+
+完成複製貼上與設定後，強烈建議使用免費的線上檢測工具（如 [SSL Shopper - SSL Checker](https://www.sslshopper.com/ssl-checker.html) 或 Geekflare SSL Test）輸入你的網址，確認**憑證鏈（Certificate Chain）**是否顯示為完整且連續的綠色狀態。 [[1](https://anbon.tw/ssl-certificate-renewal-management/), [2](https://www.service.gov.tw/faqViewDetl?faqDetlId=72)]
