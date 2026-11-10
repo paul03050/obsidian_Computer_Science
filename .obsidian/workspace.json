@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md",
+                "file": "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TLS SSL 與 S MIME 的核心差異"
+              "title": "cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md",
+    "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md",
+    "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md",
     "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
     "Chinese on the Internet/SSLCA/Base64.md",
@@ -245,7 +246,6 @@
     "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
     "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md",
-    "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
     "Chinese on the Internet/Frequently Visited Websites",

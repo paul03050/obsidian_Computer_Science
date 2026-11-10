@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身",
+      "path": "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md"
+    },
+    {
       "basename": "TLS SSL 與 S MIME 的核心差異",
       "path": "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cmd",
       "path": "os/windows/cmd.md"
-    },
-    {
-      "basename": "services.msc",
-      "path": "os/windows/services.msc.md"
     }
   ],
   "omittedPaths": [
