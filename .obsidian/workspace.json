@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
+                "file": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方"
+              "title": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -220,8 +219,11 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
+    "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
+    "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
+    "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md",
     "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
+    "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
     "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md",
     "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md",
     "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
@@ -244,9 +246,6 @@
     "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
     "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
     "Chinese on the Internet/Basic Knowledge/Redirect.md",
-    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
-    "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
-    "Chinese on the Internet/Basic Knowledge/Domain Registrar.md",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
     "Chinese on the Internet/Frequently Visited Websites",

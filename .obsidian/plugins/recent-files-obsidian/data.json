@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」",
+      "path": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md"
+    },
+    {
+      "basename": "IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同",
+      "path": "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md"
+    },
+    {
+      "basename": "Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線",
+      "path": "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md"
+    },
+    {
       "basename": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方",
       "path": "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "物件解構賦值",
       "path": "Date structure/物件解構賦值.md"
-    },
-    {
-      "basename": "Framework",
-      "path": "Nouns/Framework.md"
-    },
-    {
-      "basename": "重點",
-      "path": "html/重點.md"
-    },
-    {
-      "basename": "Function Calling",
-      "path": "ai_agent/Nouns/Function Calling.md"
     }
   ],
   "omittedPaths": [
