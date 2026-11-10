@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
+                "file": "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」"
+              "title": "Sectigo Root R46 USERTrust (含 CAOV36)"
             }
           }
         ]
@@ -219,8 +219,11 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
+    "Chinese on the Internet/SSLCA/Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。.md",
+    "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md",
+    "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md",
     "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
+    "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
     "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md",
     "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
     "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
@@ -243,9 +246,6 @@
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
     "Chinese on the Internet/Basic Knowledge/TMCH.md",
-    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
-    "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
-    "Chinese on the Internet/Basic Knowledge/Redirect.md",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
     "Chinese on the Internet/Frequently Visited Websites",

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Sectigo Root R46 USERTrust (含 CAOV36)",
+      "path": "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md"
+    },
+    {
+      "basename": "Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。",
+      "path": "Chinese on the Internet/SSLCA/Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。.md"
+    },
+    {
+      "basename": "Sectigo／UserTrust 憑證體系中的 CA 憑證",
+      "path": "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md"
+    },
+    {
       "basename": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」",
       "path": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "新通用頂級域名計畫（Next Round gTLD）",
       "path": "network/新通用頂級域名計畫（Next Round gTLD）.md"
-    },
-    {
-      "basename": "Runtime =「程式正在跑的時候」",
-      "path": "kaspa/Runtime =「程式正在跑的時候」.md"
-    },
-    {
-      "basename": "一個已存在的 UTXO 本身不能被原地修改。",
-      "path": "kaspa/一個已存在的 UTXO 本身不能被原地修改。.md"
-    },
-    {
-      "basename": "物件解構賦值",
-      "path": "Date structure/物件解構賦值.md"
     }
   ],
   "omittedPaths": [
