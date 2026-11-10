@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Sectigo Root R46 USERTrust (含 CAOV36)",
-      "path": "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md"
+      "basename": "SSL TLS 憑證運作原理與需求",
+      "path": "Chinese on the Internet/SSLCA/SSL TLS 憑證運作原理與需求.md"
+    },
+    {
+      "basename": "修改域名信箱",
+      "path": "Chinese on the Internet/Basic Knowledge/修改域名信箱.md"
+    },
+    {
+      "basename": "DNS CNAME",
+      "path": "Chinese on the Internet/DNS Resolution/DNS CNAME.md"
+    },
+    {
+      "basename": "DNS 記錄 (DNS Records)",
+      "path": "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md"
+    },
+    {
+      "basename": "@不是網域名稱",
+      "path": "Chinese on the Internet/DNS Resolution/@不是網域名稱.md"
     },
     {
       "basename": "Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。",
@@ -11,6 +27,18 @@
     {
       "basename": "Sectigo／UserTrust 憑證體系中的 CA 憑證",
       "path": "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md"
+    },
+    {
+      "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
+      "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "Sectigo Root R46 USERTrust (含 CAOV36)",
+      "path": "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md"
     },
     {
       "basename": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」",
@@ -27,10 +55,6 @@
     {
       "basename": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方",
       "path": "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md"
-    },
-    {
-      "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
-      "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
     },
     {
       "basename": "Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證",
@@ -63,10 +87,6 @@
     {
       "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
       "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
     },
     {
       "basename": "Base64",
@@ -161,14 +181,6 @@
       "path": "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md"
     },
     {
-      "basename": "@不是網域名稱",
-      "path": "Chinese on the Internet/DNS Resolution/@不是網域名稱.md"
-    },
-    {
-      "basename": "DNS CNAME",
-      "path": "Chinese on the Internet/DNS Resolution/DNS CNAME.md"
-    },
-    {
       "basename": "SSL Shopper",
       "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
     },
@@ -181,24 +193,12 @@
       "path": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md"
     },
     {
-      "basename": "DNS 記錄 (DNS Records)",
-      "path": "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md"
-    },
-    {
       "basename": "Web API",
       "path": "network/Web API.md"
     },
     {
       "basename": "RESTful APIs",
       "path": "network/RESTful APIs.md"
-    },
-    {
-      "basename": "網路埠轉發（Port Forwarding）",
-      "path": "network/網路埠轉發（Port Forwarding）.md"
-    },
-    {
-      "basename": "新通用頂級域名計畫（Next Round gTLD）",
-      "path": "network/新通用頂級域名計畫（Next Round gTLD）.md"
     }
   ],
   "omittedPaths": [
