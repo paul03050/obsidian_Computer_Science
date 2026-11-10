@@ -70,3 +70,71 @@ server {
 請謹慎使用程式碼。
 
 您目前是在**準備部署特定 CA（例如 Let's Encrypt、Sectigo、DigiCert）** 的憑證嗎？如果手邊的檔案名稱讓您卡住，可以提供**檔案清單**，我能直接幫您確認正確的合併順序！
+
+
+**是的，完全正確！** 您的操作邏輯完全沒有錯。
+
+針對 Sectigo（原 Comodo）下載下來的檔案，最標準的做法就是**打開「域名.crt」檔案，直接在它的最後面（另起新行）貼上「bundle.txt」的完整內容**，然後存檔。
+
+以下是操作時的無痛核對清單，確保 100% 成功：
+
+🔍 貼完後的檔案內容檢查
+
+請確保合併後的檔案，內容看起來像這樣（**注意每一行都要獨立**）：
+
+text
+
+```
+-----BEGIN CERTIFICATE-----
+（Sectigo 域名憑證的加密字串）
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+（Sectigo 中繼憑證 1 的加密字串，來自 bundle）
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+（Sectigo 中繼憑證 2 的加密字串，來自 bundle）
+-----END CERTIFICATE-----
+```
+
+請謹慎使用程式碼。
+
+🚨 貼上時唯一要注意的「陷阱」
+
+複製貼上時，請務必確認**交界處沒有黏在一起**。
+
+- ❌ **錯誤的黏貼（Nginx 會報錯）：**
+    
+    text
+    
+    ```
+    -----END CERTIFICATE----------BEGIN CERTIFICATE-----
+    ```
+    
+    請謹慎使用程式碼。
+    
+- **正確的黏貼（有換行）：**
+
+text
+
+```
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+```
+
+請謹慎使用程式碼。
+
+💡 貼完後的下一步
+
+把這個合併好的檔案上傳到伺服器，並在 Nginx 設定檔中將 `ssl_certificate` 指向它。接著重啟 Nginx 之前，建議先執行以下指令檢查語法是否正確：
+
+bash
+
+```
+nginx -t
+```
+
+請謹慎使用程式碼。
+
+如果顯示 `syntax is ok` 和 `test is successful`，就代表您的憑證鏈合併得非常完美，可以放心重啟 Nginx 了！
+
+請問您的 Nginx 目前是運行在 **Ubuntu、CentOS 還是 Docker 容器**內呢？如果在重啟或套用設定時遇到任何錯誤訊息，隨時可以發給我幫您排查！
