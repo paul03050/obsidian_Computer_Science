@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
+      "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
+    },
+    {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "Base64",
+      "path": "Chinese on the Internet/SSLCA/Base64.md"
+    },
+    {
       "basename": "cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身",
       "path": "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "FQDN vs Common Name (CN)",
       "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
-    },
-    {
-      "basename": "Base64",
-      "path": "Chinese on the Internet/SSLCA/Base64.md"
     },
     {
       "basename": "SSL 憑證（SSL Certificate）",
@@ -195,10 +199,6 @@
     {
       "basename": "&&",
       "path": "typescript/syntax/&&.md"
-    },
-    {
-      "basename": "cmd",
-      "path": "os/windows/cmd.md"
     }
   ],
   "omittedPaths": [
