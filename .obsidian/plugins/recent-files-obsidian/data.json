@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TLS SSL 與 S MIME 的核心差異",
+      "path": "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md"
+    },
+    {
       "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
       "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "services.msc",
       "path": "os/windows/services.msc.md"
-    },
-    {
-      "basename": "PowerShell 的執行原則（Execution Policy）",
-      "path": "os/windows/PowerShell 的執行原則（Execution Policy）.md"
     }
   ],
   "omittedPaths": [
