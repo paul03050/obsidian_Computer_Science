@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方",
+      "path": "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md"
+    },
+    {
       "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
       "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Function Calling",
       "path": "ai_agent/Nouns/Function Calling.md"
-    },
-    {
-      "basename": "interface",
-      "path": "typescript/syntax/interface.md"
     }
   ],
   "omittedPaths": [

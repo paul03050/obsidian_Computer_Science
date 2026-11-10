@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
+                "file": "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）"
+              "title": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -219,8 +220,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md",
     "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
+    "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
+    "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md",
     "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md",
     "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md",
@@ -245,7 +247,6 @@
     "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
     "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
     "Chinese on the Internet/Basic Knowledge/Domain Registrar.md",
-    "Chinese on the Internet/DNS Resolution/Domain Name System Security Extensions.md",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
     "Chinese on the Internet/Frequently Visited Websites",
