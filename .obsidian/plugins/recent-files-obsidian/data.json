@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
+      "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
+    },
+    {
+      "basename": "Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證",
+      "path": "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md"
+    },
+    {
+      "basename": "Renew Reissue Replace Revoke 新申請",
+      "path": "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md"
+    },
+    {
+      "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
+      "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
+    },
+    {
+      "basename": "cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身",
+      "path": "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md"
+    },
+    {
+      "basename": "FQDN vs Common Name (CN)",
+      "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
+    },
+    {
+      "basename": "NC-ACME 自動換證系統",
+      "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
+    },
+    {
+      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
+      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
+    },
+    {
       "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
       "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
     },
@@ -13,20 +45,8 @@
       "path": "Chinese on the Internet/SSLCA/Base64.md"
     },
     {
-      "basename": "cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身",
-      "path": "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md"
-    },
-    {
       "basename": "TLS SSL 與 S MIME 的核心差異",
       "path": "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md"
-    },
-    {
-      "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
-      "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
-    },
-    {
-      "basename": "FQDN vs Common Name (CN)",
-      "path": "Chinese on the Internet/SSLCA/FQDN vs Common Name (CN).md"
     },
     {
       "basename": "SSL 憑證（SSL Certificate）",
@@ -37,16 +57,8 @@
       "path": "Chinese on the Internet/SSLCA/Wildcard SSL.md"
     },
     {
-      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
-      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
-    },
-    {
       "basename": "OpenSSL",
       "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
-    },
-    {
-      "basename": "NC-ACME 自動換證系統",
-      "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
     },
     {
       "basename": "Plesk 憑證安裝與管理指南",
@@ -187,18 +199,6 @@
     {
       "basename": "interface",
       "path": "typescript/syntax/interface.md"
-    },
-    {
-      "basename": "function_callback",
-      "path": "typescript/syntax/function_callback.md"
-    },
-    {
-      "basename": "as unknown",
-      "path": "typescript/syntax/as unknown.md"
-    },
-    {
-      "basename": "&&",
-      "path": "typescript/syntax/&&.md"
     }
   ],
   "omittedPaths": [
