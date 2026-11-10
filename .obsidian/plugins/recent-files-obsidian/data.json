@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "Chinese on the Internet/Basic Knowledge/未命名.md"
+      "basename": "SSL 憑證鏈（Certificate Chain）的核心概念",
+      "path": "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md"
+    },
+    {
+      "basename": "過期註冊恢復政策 (ERRP)",
+      "path": "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md"
     },
     {
       "basename": "域名轉移流程概述",
@@ -195,10 +199,6 @@
     {
       "basename": "国际化域名IDN",
       "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
-    },
-    {
-      "basename": "主機託管、域名、SSL 憑證",
-      "path": "Chinese on the Internet/Basic Knowledge/主機託管、域名、SSL 憑證.md"
     }
   ],
   "omittedPaths": [
