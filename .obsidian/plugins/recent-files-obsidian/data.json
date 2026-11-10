@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "CA Bundle 的內容 Nginx Apache IIS",
+      "path": "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md"
+    },
+    {
+      "basename": "ICANN lookup",
+      "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
+    },
+    {
+      "basename": "Plesk 憑證安裝與管理指南",
+      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
+    },
+    {
+      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
+      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
+    },
+    {
+      "basename": "域名鎖",
+      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
+    },
+    {
       "basename": "台灣網域名稱註冊與管理指南",
       "path": "Chinese on the Internet/Basic Knowledge/台灣網域名稱註冊與管理指南.md"
     },
@@ -117,10 +137,6 @@
       "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
     },
     {
-      "basename": "Plesk 憑證安裝與管理指南",
-      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
-    },
-    {
       "basename": "DNS A 記錄）時，必須指定一個 IP 位址。",
       "path": "Chinese on the Internet/DNS Resolution/DNS A 記錄）時，必須指定一個 IP 位址。.md"
     },
@@ -161,16 +177,8 @@
       "path": "Chinese on the Internet/DNS Resolution/Domain Name System Security Extensions.md"
     },
     {
-      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
-      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
-    },
-    {
       "basename": "網域移轉（Domain Transfer）",
       "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
-    },
-    {
-      "basename": "域名鎖",
-      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
     },
     {
       "basename": "国际化域名IDN",
@@ -191,14 +199,6 @@
     {
       "basename": "SSL Shopper",
       "path": "Chinese on the Internet/Frequently Visited Websites/SSL Shopper.md"
-    },
-    {
-      "basename": "ICANN lookup",
-      "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
-    },
-    {
-      "basename": "法人登記證書  商業登記抄本 變更登記書",
-      "path": "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md"
     }
   ],
   "omittedPaths": [
