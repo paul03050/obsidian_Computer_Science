@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
+                "file": "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ICANN lookup"
+              "title": "域名轉移流程概述"
             }
           }
         ]
@@ -219,9 +219,10 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
+    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
+    "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md",
     "Chinese on the Internet/SSLCA/SSL 憑證申請與資料遞交操作指南.md",
     "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md",
-    "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
     "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
@@ -244,7 +245,6 @@
     "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md",
     "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md",
     "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
-    "Chinese on the Internet/SSLCA/cert 和 .crt實質上代表相同的東西，兩者都代表「憑證（Certificate）」本身.md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",

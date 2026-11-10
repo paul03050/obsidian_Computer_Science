@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "域名轉移流程概述",
+      "path": "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md"
+    },
+    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TXT 記錄",
       "path": "Chinese on the Internet/DNS Resolution/TXT 記錄.md"
-    },
-    {
-      "basename": "DNS SRV（Service）紀錄",
-      "path": "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md"
     }
   ],
   "omittedPaths": [
