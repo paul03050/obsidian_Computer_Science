@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
+                "file": "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSL 憑證鏈（Certificate Chain）的核心概念"
+              "title": "變更註冊人（所有權讓渡"
             }
           }
         ]
@@ -219,8 +219,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
     "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
+    "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
+    "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
     "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md",
     "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md",
     "Chinese on the Internet/SSLCA/SSL 憑證申請與資料遞交操作指南.md",
@@ -244,7 +245,6 @@
     "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
     "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md",
     "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
-    "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "變更註冊人（所有權讓渡",
+      "path": "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md"
+    },
+    {
       "basename": "SSL 憑證鏈（Certificate Chain）的核心概念",
       "path": "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "網域移轉（Domain Transfer）",
       "path": "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md"
-    },
-    {
-      "basename": "国际化域名IDN",
-      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
     }
   ],
   "omittedPaths": [
