@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
+                "file": "Chinese on the Internet/Basic Knowledge/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WHOIS 系統的資料同步通常需要 24 到 48 小時"
+              "title": "未命名"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -219,8 +220,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
     "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
+    "Chinese on the Internet/Basic Knowledge/未命名.md",
+    "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
     "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
     "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
     "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md",
@@ -244,7 +246,6 @@
     "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md",
     "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
     "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
-    "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",

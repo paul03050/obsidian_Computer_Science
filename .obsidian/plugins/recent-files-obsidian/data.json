@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Chinese on the Internet/Basic Knowledge/未命名.md"
+    },
+    {
       "basename": "WHOIS 系統的資料同步通常需要 24 到 48 小時",
       "path": "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Domain Registrar",
       "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
-    },
-    {
-      "basename": "Domain Name System Security Extensions",
-      "path": "Chinese on the Internet/DNS Resolution/Domain Name System Security Extensions.md"
     }
   ],
   "omittedPaths": [
