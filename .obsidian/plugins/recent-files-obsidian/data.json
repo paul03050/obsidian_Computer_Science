@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "Chinese on the Internet/Basic Knowledge/未命名.md"
+      "basename": "SSL 憑證與更新細節」以及「訂單與續約規則」",
+      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md"
+    },
+    {
+      "basename": "中華電信經銷體系0800-080-365` 轉接分機",
+      "path": "Chinese on the Internet/Basic Knowledge/中華電信經銷體系0800-080-365` 轉接分機.md"
     },
     {
       "basename": "WHOIS 系統的資料同步通常需要 24 到 48 小時",
@@ -195,10 +199,6 @@
     {
       "basename": "Domain Status（域名狀態）",
       "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
-    },
-    {
-      "basename": "Domain Registrar",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
     }
   ],
   "omittedPaths": [

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/未命名.md",
+                "file": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "SSL 憑證與更新細節」以及「訂單與續約規則」"
             }
           }
         ]
@@ -220,8 +220,9 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
+    "Chinese on the Internet/Basic Knowledge/中華電信經銷體系0800-080-365` 轉接分機.md",
+    "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
     "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
-    "Chinese on the Internet/Basic Knowledge/未命名.md",
     "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
     "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
     "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
@@ -245,7 +246,6 @@
     "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
     "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md",
     "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md",
-    "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
