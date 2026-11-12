@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/prompt/常用prompt.md",
+                "file": "Chinese on the Internet/Basic Knowledge/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "常用prompt"
+              "title": "網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。"
             }
           }
         ]
@@ -219,10 +219,12 @@
   },
   "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
-    "Chinese on the Internet/prompt/常用prompt.md",
-    "Chinese on the Internet/prompt",
+    "Chinese on the Internet/Change Member or Domain Information/法人登記證書  商業登記抄本 變更登記書.md",
     "Chinese on the Internet/Basic Knowledge/中華電信經銷體系0800-080-365` 轉接分機.md",
+    "Chinese on the Internet/Basic Knowledge/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
+    "Chinese on the Internet/prompt/常用prompt.md",
+    "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
+    "Chinese on the Internet/prompt",
     "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
     "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md",
     "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
@@ -244,8 +246,6 @@
     "Chinese on the Internet/SSLCA/Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。.md",
     "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md",
     "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md",
-    "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md",
-    "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
     "Chinese on the Internet/DNS Resolution",
