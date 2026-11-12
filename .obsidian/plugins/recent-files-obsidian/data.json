@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "常用prompt",
+      "path": "Chinese on the Internet/prompt/常用prompt.md"
+    },
+    {
       "basename": "SSL 憑證與更新細節」以及「訂單與續約規則」",
       "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ICANN RAA",
       "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
-    },
-    {
-      "basename": "Domain Status（域名狀態）",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
     }
   ],
   "omittedPaths": [
