@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "部署 SSL TLS 網路安全憑證",
+      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
+    },
+    {
+      "basename": "Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線",
+      "path": "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md"
+    },
+    {
+      "basename": "Sectigo SSL 憑證有效期限縮短公告命名",
+      "path": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md"
+    },
+    {
+      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
+      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
+    },
+    {
+      "basename": "SAN（多網域）憑證最核心的差異",
+      "path": "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md"
+    },
+    {
+      "basename": "Renew Reissue Replace Revoke 新申請",
+      "path": "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md"
+    },
+    {
+      "basename": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」",
+      "path": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md"
+    },
+    {
+      "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
+      "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
+    },
+    {
+      "basename": "Registry Domain ID（註冊機構網域識別碼）",
+      "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
+    },
+    {
+      "basename": "WHOIS 系統的資料同步通常需要 24 到 48 小時",
+      "path": "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md"
+    },
+    {
+      "basename": "TMCH",
+      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
+    },
+    {
+      "basename": "Redirect",
+      "path": "Chinese on the Internet/Basic Knowledge/Redirect.md"
+    },
+    {
+      "basename": "Domain Status（域名狀態）",
+      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
+    },
+    {
+      "basename": "域名鎖",
+      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
+    },
+    {
+      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
+      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
+    },
+    {
+      "basename": "国际化域名IDN",
+      "path": "Chinese on the Internet/Basic Knowledge/国际化域名IDN.md"
+    },
+    {
+      "basename": "域名轉移流程概述",
+      "path": "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md"
+    },
+    {
+      "basename": "Plesk 憑證安裝與管理指南",
+      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
+    },
+    {
       "basename": "網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。",
       "path": "Chinese on the Internet/讓渡/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md"
     },
@@ -21,10 +93,6 @@
       "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md"
     },
     {
-      "basename": "WHOIS 系統的資料同步通常需要 24 到 48 小時",
-      "path": "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md"
-    },
-    {
       "basename": "變更註冊人（所有權讓渡",
       "path": "Chinese on the Internet/Basic Knowledge/變更註冊人（所有權讓渡.md"
     },
@@ -37,10 +105,6 @@
       "path": "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md"
     },
     {
-      "basename": "域名轉移流程概述",
-      "path": "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md"
-    },
-    {
       "basename": "ICANN lookup",
       "path": "Chinese on the Internet/Frequently Visited Websites/ICANN lookup.md"
     },
@@ -51,18 +115,6 @@
     {
       "basename": "CA Bundle 的內容 Nginx Apache IIS",
       "path": "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md"
-    },
-    {
-      "basename": "Plesk 憑證安裝與管理指南",
-      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
-    },
-    {
-      "basename": "網域名稱（Domain Name）的結構是由右往左層層分級",
-      "path": "Chinese on the Internet/Basic Knowledge/網域名稱（Domain Name）的結構是由右往左層層分級.md"
-    },
-    {
-      "basename": "域名鎖",
-      "path": "Chinese on the Internet/Basic Knowledge/域名鎖.md"
     },
     {
       "basename": "台灣網域名稱註冊與管理指南",
@@ -101,28 +153,12 @@
       "path": "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md"
     },
     {
-      "basename": "組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）",
-      "path": "Chinese on the Internet/SSLCA/組織驗證（OV）與延伸驗證（EV）的「預先審查流程」（Organization Pre-vetting）.md"
-    },
-    {
-      "basename": "部署 SSL TLS 網路安全憑證",
-      "path": "Chinese on the Internet/SSLCA/部署 SSL TLS 網路安全憑證.md"
-    },
-    {
       "basename": "Sectigo Root R46 USERTrust (含 CAOV36)",
       "path": "Chinese on the Internet/SSLCA/Sectigo Root R46 USERTrust (含 CAOV36).md"
     },
     {
-      "basename": "Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」",
-      "path": "Chinese on the Internet/SSLCA/Plesk 的處理方式更聰明，它完全不需要你動手去「複製貼上」或「下指令轉檔」.md"
-    },
-    {
       "basename": "IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同",
       "path": "Chinese on the Internet/SSLCA/IIS（Windows 網頁伺服器）之所以需要用轉檔程式，最核心的原因在於 Windows 系統與 Linux 系統對於憑證儲存的「設計邏輯」完全不同.md"
-    },
-    {
-      "basename": "Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線",
-      "path": "Chinese on the Internet/SSLCA/Apache 走的是「模組化、功能切分明確」的傳統路線；而 Nginx 走的是「極簡、高效能、設定集中」的現代路線.md"
     },
     {
       "basename": "Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方",
@@ -131,10 +167,6 @@
     {
       "basename": "Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證",
       "path": "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md"
-    },
-    {
-      "basename": "Renew Reissue Replace Revoke 新申請",
-      "path": "Chinese on the Internet/SSLCA/Renew Reissue Replace Revoke 新申請.md"
     },
     {
       "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
@@ -153,10 +185,6 @@
       "path": "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md"
     },
     {
-      "basename": "SAN 憑證（Subject Alternative Name，主體別名憑證）",
-      "path": "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md"
-    },
-    {
       "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
       "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "SSL 憑證（SSL Certificate）",
       "path": "Chinese on the Internet/SSLCA/SSL 憑證（SSL Certificate）.md"
-    },
-    {
-      "basename": "Wildcard SSL",
-      "path": "Chinese on the Internet/SSLCA/Wildcard SSL.md"
-    },
-    {
-      "basename": "OpenSSL",
-      "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
-    },
-    {
-      "basename": "DNS A 記錄）時，必須指定一個 IP 位址。",
-      "path": "Chinese on the Internet/DNS Resolution/DNS A 記錄）時，必須指定一個 IP 位址。.md"
-    },
-    {
-      "basename": "Sectigo SSL 憑證有效期限縮短公告命名",
-      "path": "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md"
-    },
-    {
-      "basename": "TMCH",
-      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
-    },
-    {
-      "basename": "Registry Domain ID（註冊機構網域識別碼）",
-      "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
-    },
-    {
-      "basename": "SAN（多網域）憑證最核心的差異",
-      "path": "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md"
     }
   ],
   "omittedPaths": [
