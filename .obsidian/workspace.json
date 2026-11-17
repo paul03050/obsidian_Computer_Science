@@ -35,10 +35,24 @@
             "id": "3900b92dde627b7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "前輩可能叫你貼 CNAME 的 Value"
             }
           }
         ],
@@ -230,6 +244,8 @@
   },
   "active": "3900b92dde627b7a",
   "lastOpenFiles": [
+    "Chinese on the Internet/DNS Resolution/幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器.md",
+    "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md",
     "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
     "Python/Python venv 虛擬環境管理入門指南.md",
     "typescript/init/install.md",
@@ -254,8 +270,6 @@
     "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
     "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
     "Chinese on the Internet/Basic Knowledge/域名鎖.md",
-    "Chinese on the Internet/Basic Knowledge/域名轉移流程概述.md",
-    "Chinese on the Internet/Basic Knowledge/修改域名信箱.md",
     "Chinese on the Internet/讓渡",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",

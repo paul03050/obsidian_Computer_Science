@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "前輩可能叫你貼 CNAME 的 Value",
+      "path": "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md"
+    },
+    {
+      "basename": "幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器",
+      "path": "Chinese on the Internet/DNS Resolution/幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器.md"
+    },
+    {
       "basename": "Name Server Lookup",
       "path": "Chinese on the Internet/DNS Resolution/Name Server Lookup.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "DNS 記錄 (DNS Records)",
       "path": "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md"
-    },
-    {
-      "basename": "@不是網域名稱",
-      "path": "Chinese on the Internet/DNS Resolution/@不是網域名稱.md"
-    },
-    {
-      "basename": "Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。",
-      "path": "Chinese on the Internet/SSLCA/Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。.md"
     }
   ],
   "omittedPaths": [
