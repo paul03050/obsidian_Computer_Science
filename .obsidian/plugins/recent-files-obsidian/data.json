@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Chinese on the Internet/DNS Resolution/未命名.md"
+    },
+    {
       "basename": "前輩可能叫你貼 CNAME 的 Value",
       "path": "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DNS CNAME",
       "path": "Chinese on the Internet/DNS Resolution/DNS CNAME.md"
-    },
-    {
-      "basename": "DNS 記錄 (DNS Records)",
-      "path": "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md"
     }
   ],
   "omittedPaths": [
