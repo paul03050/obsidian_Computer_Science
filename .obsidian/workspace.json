@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
+                "file": "Chinese on the Internet/SSLCA/客戶可以只向網域註冊商購買網域，再自行向 Sectigo 購買 SSL 憑證。網域註冊商和 SSL 憑證供應商不必是同一家公司.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Name Server Lookup"
-            }
-          },
-          {
-            "id": "3900b92dde627b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chinese on the Internet/DNS Resolution/Glue IP（膠合紀錄 IP）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Glue IP（膠合紀錄 IP）"
+              "title": "客戶可以只向網域註冊商購買網域，再自行向 Sectigo 購買 SSL 憑證。網域註冊商和 SSL 憑證供應商不必是同一家公司"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -243,12 +217,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3900b92dde627b7a",
+  "active": "d32ce75f20da9cc4",
   "lastOpenFiles": [
-    "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md",
-    "Chinese on the Internet/DNS Resolution/Glue IP（膠合紀錄 IP）.md",
-    "Chinese on the Internet/DNS Resolution/幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器.md",
+    "Date structure/物件解構賦值.md",
+    "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
+    "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
+    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
+    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
+    "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md",
+    "Chinese on the Internet/Basic Knowledge/Domain Registrar.md",
+    "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
+    "Chinese on the Internet/Basic Knowledge/域名鎖.md",
+    "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
+    "Chinese on the Internet/Basic Knowledge/中華電信經銷體系0800-080-365` 轉接分機.md",
+    "Chinese on the Internet/讓渡/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
     "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
+    "Chinese on the Internet/DNS Resolution/Glue IP（膠合紀錄 IP）.md",
+    "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md",
+    "Chinese on the Internet/DNS Resolution/幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器.md",
     "Python/Python venv 虛擬環境管理入門指南.md",
     "typescript/init/install.md",
     "Chinese on the Internet/SSLCA/客戶可以只向網域註冊商購買網域，再自行向 Sectigo 購買 SSL 憑證。網域註冊商和 SSL 憑證供應商不必是同一家公司.md",
@@ -259,18 +245,6 @@
     "Chinese on the Internet/SSLCA/Nginx 在處理憑證鏈（Certificate Chain）時最特別、也最容易出錯的地方.md",
     "Chinese on the Internet/SSLCA/NC-ACME 自動換證系統.md",
     "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md",
-    "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
-    "Chinese on the Internet/SSLCA/Sectigo SSL 憑證有效期限縮短公告命名.md",
-    "Chinese on the Internet/SSLCA/Base64.md",
-    "Chinese on the Internet/Basic Knowledge/Domain Registrar.md",
-    "Chinese on the Internet/Basic Knowledge/WHOIS 系統的資料同步通常需要 24 到 48 小時.md",
-    "Chinese on the Internet/Basic Knowledge/TMCH.md",
-    "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md",
-    "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md",
-    "Chinese on the Internet/Basic Knowledge/Redirect.md",
-    "Chinese on the Internet/Basic Knowledge/ICANN RAA.md",
-    "Chinese on the Internet/Basic Knowledge/網域移轉（Domain Transfer）.md",
-    "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md",
     "Chinese on the Internet/讓渡",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",
