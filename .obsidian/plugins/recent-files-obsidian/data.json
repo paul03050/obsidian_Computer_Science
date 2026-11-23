@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "「域名狀態」（Domain Status）",
+      "path": "Chinese on the Internet/Basic Knowledge/「域名狀態」（Domain Status）.md"
+    },
+    {
       "basename": "SAN（多網域）憑證最核心的差異",
       "path": "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OpenSSL",
       "path": "Chinese on the Internet/SSLCA/OpenSSL.md"
-    },
-    {
-      "basename": "Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證",
-      "path": "Chinese on the Internet/SSLCA/Instant SSL 組織驗證（OV, Organization Validation）SSL 憑證.md"
     }
   ],
   "omittedPaths": [
