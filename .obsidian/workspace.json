@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bef573e973f4bdbe",
+        "id": "fa440b0826cdff60",
         "type": "tabs",
         "children": [
           {
-            "id": "d32ce75f20da9cc4",
+            "id": "c5062611f726e331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
+                "file": "Chinese on the Internet/Assignment, Transfer, and Data Modification/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Name Server Lookup"
-            }
-          },
-          {
-            "id": "48b5a7c3ade02a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chinese on the Internet/Basic Knowledge/「域名狀態」（Domain Status）.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "「域名狀態」（Domain Status）"
+              "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48b5a7c3ade02a3e",
+  "active": "c5062611f726e331",
   "lastOpenFiles": [
-    "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
+    "Chinese on the Internet/Assignment, Transfer, and Data Modification/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
+    "Chinese on the Internet/Assignment, Transfer, and Data Modification/未命名.md",
+    "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
     "Chinese on the Internet/Basic Knowledge/「域名狀態」（Domain Status）.md",
+    "Chinese on the Internet/SSLCA/SAN（多網域）憑證最核心的差異.md",
     "Chinese on the Internet/SSLCA/SSL TLS 憑證運作原理與需求.md",
     "Chinese on the Internet/SSLCA/SSL 憑證鏈（Certificate Chain）的核心概念.md",
     "Chinese on the Internet/SSLCA/Shopify辨識問題屬於哪個層級：網域註冊、DNS、DNSSEC、SSL，還是網站主機。.md",
@@ -268,10 +246,7 @@
     "Chinese on the Internet/DNS Resolution/@不是網域名稱.md",
     "Chinese on the Internet/DNS Resolution/TXT 記錄.md",
     "Chinese on the Internet/SSLCA/CA Bundle 的內容 Nginx Apache IIS.md",
-    "Chinese on the Internet/讓渡/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
-    "Chinese on the Internet/SSLCA/TLS SSL 與 S MIME 的核心差異.md",
-    "Chinese on the Internet/SSLCA/SAN 憑證（Subject Alternative Name，主體別名憑證）.md",
-    "Chinese on the Internet/讓渡",
+    "Chinese on the Internet/Assignment, Transfer, and Data Modification",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",
     "Chinese on the Internet/SSLCA",
