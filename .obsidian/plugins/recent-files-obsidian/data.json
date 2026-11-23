@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "Chinese on the Internet/Assignment, Transfer, and Data Modification/未命名.md"
+      "basename": "產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤",
+      "path": "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md"
+    },
+    {
+      "basename": "Plesk 憑證安裝與管理指南",
+      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
+    },
+    {
+      "basename": "轉移鎖（Registrar Lock／Transfer Lock）",
+      "path": "Chinese on the Internet/Assignment, Transfer, and Data Modification/轉移鎖（Registrar Lock／Transfer Lock）.md"
     },
     {
       "basename": "網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。",
@@ -51,10 +59,6 @@
     {
       "basename": "CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）",
       "path": "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md"
-    },
-    {
-      "basename": "Plesk 憑證安裝與管理指南",
-      "path": "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md"
     },
     {
       "basename": "Domain Name System Security Extensions",
@@ -195,10 +199,6 @@
     {
       "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
       "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
-    },
-    {
-      "basename": "Sectigo／UserTrust 憑證體系中的 CA 憑證",
-      "path": "Chinese on the Internet/SSLCA/Sectigo／UserTrust 憑證體系中的 CA 憑證.md"
     }
   ],
   "omittedPaths": [
