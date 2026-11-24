@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Host Installation/未命名.md",
+                "file": "Chinese on the Internet/Host Installation/客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈"
             }
           }
         ]
@@ -221,7 +221,7 @@
   "active": "c5062611f726e331",
   "lastOpenFiles": [
     "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md",
-    "Chinese on the Internet/Host Installation/未命名.md",
+    "Chinese on the Internet/Host Installation/客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈.md",
     "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification/轉移鎖（Registrar Lock／Transfer Lock）.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
