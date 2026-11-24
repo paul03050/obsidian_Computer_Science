@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Chinese on the Internet/Host Installation/未命名.md"
+    },
+    {
       "basename": "產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤",
       "path": "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TMCH",
       "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
-    },
-    {
-      "basename": "Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」",
-      "path": "Chinese on the Internet/SSLCA/Root R46 與 USERTrust（通常在組織驗證中對應包含 CAOV36）最核心的差異在於「新舊世代交替」與「角色功能的不同」.md"
     }
   ],
   "omittedPaths": [

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md",
+                "file": "Chinese on the Internet/Host Installation/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤"
+              "title": "未命名"
             }
           }
         ]
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4130fb8e05580919",
@@ -219,9 +220,10 @@
   },
   "active": "c5062611f726e331",
   "lastOpenFiles": [
+    "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md",
+    "Chinese on the Internet/Host Installation/未命名.md",
     "Chinese on the Internet/Host Installation/Plesk 憑證安裝與管理指南.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification/轉移鎖（Registrar Lock／Transfer Lock）.md",
-    "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification/網域名稱讓渡（所有權轉移）」的標準作業流程（SOP）以及操作上的疑難雜症。.md",
     "Chinese on the Internet/DNS Resolution/Name Server Lookup.md",
     "Chinese on the Internet/Basic Knowledge/「域名狀態」（Domain Status）.md",
@@ -244,7 +246,6 @@
     "Chinese on the Internet/DNS Resolution/DNS CNAME.md",
     "Chinese on the Internet/DNS Resolution/前輩可能叫你貼 CNAME 的 Value.md",
     "Chinese on the Internet/DNS Resolution/@不是網域名稱.md",
-    "Chinese on the Internet/DNS Resolution/TXT 記錄.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",
