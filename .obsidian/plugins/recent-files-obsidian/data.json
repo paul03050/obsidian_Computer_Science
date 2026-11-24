@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Plesk 管理員聯絡信箱（Administrator Email）",
+      "path": "Chinese on the Internet/Host Installation/Plesk 管理員聯絡信箱（Administrator Email）.md"
+    },
+    {
       "basename": "客戶聯絡信箱 網路中文會員信箱 域名註冊人信箱",
       "path": "Chinese on the Internet/SSLCA/客戶聯絡信箱 網路中文會員信箱 域名註冊人信箱.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "過期註冊恢復政策 (ERRP)",
       "path": "Chinese on the Internet/Basic Knowledge/過期註冊恢復政策 (ERRP).md"
-    },
-    {
-      "basename": "Domain Status（域名狀態）",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
     }
   ],
   "omittedPaths": [
