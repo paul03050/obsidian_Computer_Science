@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "客戶聯絡信箱 網路中文會員信箱 域名註冊人信箱",
+      "path": "Chinese on the Internet/SSLCA/客戶聯絡信箱 網路中文會員信箱 域名註冊人信箱.md"
+    },
+    {
       "basename": "客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈",
       "path": "Chinese on the Internet/Host Installation/客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Domain Status（域名狀態）",
       "path": "Chinese on the Internet/Basic Knowledge/Domain Status（域名狀態）.md"
-    },
-    {
-      "basename": "TMCH",
-      "path": "Chinese on the Internet/Basic Knowledge/TMCH.md"
     }
   ],
   "omittedPaths": [
