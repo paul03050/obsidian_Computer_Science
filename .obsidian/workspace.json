@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/Host Installation/PRIVATE KEY INFO !.txt.md",
+                "file": "Chinese on the Internet/Host Installation/PKCS7 File（.p7b／.p7c）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PRIVATE KEY INFO !.txt"
+              "title": "PKCS7 File（.p7b／.p7c）"
             }
           }
         ]
@@ -220,6 +220,7 @@
   "active": "c5062611f726e331",
   "lastOpenFiles": [
     "Chinese on the Internet/Host Installation/為什麼上游 CA 給的跟你們寄的不一樣？.md",
+    "Chinese on the Internet/Host Installation/PKCS7 File（.p7b／.p7c）.md",
     "Chinese on the Internet/Host Installation/PRIVATE KEY INFO !.txt.md",
     "Chinese on the Internet/Host Installation/客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈.md",
     "Chinese on the Internet/Host Installation/Plesk 管理員聯絡信箱（Administrator Email）.md",
@@ -244,7 +245,6 @@
     "Chinese on the Internet/DNS Resolution/DNS MX 郵件交換記錄（Mail Exchange Record）.md",
     "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md",
     "Chinese on the Internet/DNS Resolution/幫客戶確認 CNAME 是否設定成功 特定的 DNS 伺服器.md",
-    "Chinese on the Internet/DNS Resolution/DNS 記錄 (DNS Records).md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",

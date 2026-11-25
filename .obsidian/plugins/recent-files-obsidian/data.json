@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PRIVATE KEY INFO !.txt",
-      "path": "Chinese on the Internet/Host Installation/PRIVATE KEY INFO !.txt.md"
+      "basename": "PKCS7 File（.p7b／.p7c）",
+      "path": "Chinese on the Internet/Host Installation/PKCS7 File（.p7b／.p7c）.md"
     },
     {
       "basename": "為什麼上游 CA 給的跟你們寄的不一樣？",
       "path": "Chinese on the Internet/Host Installation/為什麼上游 CA 給的跟你們寄的不一樣？.md"
+    },
+    {
+      "basename": "PRIVATE KEY INFO !.txt",
+      "path": "Chinese on the Internet/Host Installation/PRIVATE KEY INFO !.txt.md"
     },
     {
       "basename": "客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈",
@@ -195,10 +199,6 @@
     {
       "basename": "SSL 憑證與更新細節」以及「訂單與續約規則」",
       "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md"
-    },
-    {
-      "basename": "台灣網域名稱註冊與管理指南",
-      "path": "Chinese on the Internet/Basic Knowledge/台灣網域名稱註冊與管理指南.md"
     }
   ],
   "omittedPaths": [
