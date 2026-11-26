@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese on the Internet/SSLCA/電話驗證（Callback）.md",
+                "file": "Chinese on the Internet/SSLCA/io 透過自動串接系統來核發憑證.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "電話驗證（Callback）"
+              "title": "io 透過自動串接系統來核發憑證"
             }
           }
         ]
@@ -220,8 +220,10 @@
   },
   "active": "c5062611f726e331",
   "lastOpenFiles": [
-    "Chinese on the Internet/Host Installation/為什麼上游 CA 給的跟你們寄的不一樣？.md",
+    "Chinese on the Internet/SSLCA/StoreID（Validation Team）進行電話照會（Callback）或查詢預審（Pre-vetting）進度時，通常需要提供這組原廠編號。.md",
+    "Chinese on the Internet/SSLCA/io 透過自動串接系統來核發憑證.md",
     "Chinese on the Internet/SSLCA/電話驗證（Callback）.md",
+    "Chinese on the Internet/Host Installation/為什麼上游 CA 給的跟你們寄的不一樣？.md",
     "Chinese on the Internet/Host Installation/產生 CSR（Certificate Signing Request，憑證簽署請求）時，Common Name（CN）、Private Key（私密金鑰）應該如何設定，以及容易發生哪些錯誤.md",
     "Chinese on the Internet/Host Installation/客戶拿到的可能是「單一網站憑證」，而網路中文寄的是「整套信任鏈.md",
     "Chinese on the Internet/Host Installation/PRIVATE KEY INFO !.txt.md",
@@ -244,8 +246,6 @@
     "Chinese on the Internet/SSLCA/CA Bundle 通常主要包含一張或多張中繼憑證（Intermediate Certificates）.md",
     "Chinese on the Internet/DNS Resolution/Domain Name System Security Extensions.md",
     "Chinese on the Internet/DNS Resolution/Glue IP（膠合紀錄 IP）.md",
-    "Chinese on the Internet/DNS Resolution/DNS MX 郵件交換記錄（Mail Exchange Record）.md",
-    "Chinese on the Internet/DNS Resolution/DNS SRV（Service）紀錄.md",
     "Chinese on the Internet/Assignment, Transfer, and Data Modification",
     "Chinese on the Internet/prompt",
     "Chinese on the Internet/Host Installation",

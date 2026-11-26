@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "io 透過自動串接系統來核發憑證",
+      "path": "Chinese on the Internet/SSLCA/io 透過自動串接系統來核發憑證.md"
+    },
+    {
+      "basename": "StoreID（Validation Team）進行電話照會（Callback）或查詢預審（Pre-vetting）進度時，通常需要提供這組原廠編號。",
+      "path": "Chinese on the Internet/SSLCA/StoreID（Validation Team）進行電話照會（Callback）或查詢預審（Pre-vetting）進度時，通常需要提供這組原廠編號。.md"
+    },
+    {
       "basename": "電話驗證（Callback）",
       "path": "Chinese on the Internet/SSLCA/電話驗證（Callback）.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Registry Domain ID（註冊機構網域識別碼）",
       "path": "Chinese on the Internet/Basic Knowledge/Registry Domain ID（註冊機構網域識別碼）.md"
-    },
-    {
-      "basename": "ICANN RAA",
-      "path": "Chinese on the Internet/Basic Knowledge/ICANN RAA.md"
-    },
-    {
-      "basename": "Domain Registrar",
-      "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
     }
   ],
   "omittedPaths": [
