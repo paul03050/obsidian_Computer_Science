@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "電話驗證（Callback）",
+      "path": "Chinese on the Internet/SSLCA/電話驗證（Callback）.md"
+    },
+    {
       "basename": "為什麼上游 CA 給的跟你們寄的不一樣？",
       "path": "Chinese on the Internet/Host Installation/為什麼上游 CA 給的跟你們寄的不一樣？.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Domain Registrar",
       "path": "Chinese on the Internet/Basic Knowledge/Domain Registrar.md"
-    },
-    {
-      "basename": "SSL 憑證與更新細節」以及「訂單與續約規則」",
-      "path": "Chinese on the Internet/Basic Knowledge/SSL 憑證與更新細節」以及「訂單與續約規則」.md"
     }
   ],
   "omittedPaths": [
